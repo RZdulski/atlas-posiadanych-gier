@@ -1,0 +1,5928 @@
+{
+  "date": "2026-10-19",
+  "profile": "Gramotek",
+  "lists": [
+    {
+      "title": "Amazon Games owned",
+      "url": "https://backloggd.com/u/Gramotek/list/amazon-games-owned/",
+      "count": 38,
+      "captured_at": "2026-10-19T18:48:49.439Z",
+      "games": [
+        {
+          "id": "27666",
+          "title": "Sine Mora EX",
+          "url": "https://backloggd.com/games/sine-mora-ex/"
+        },
+        {
+          "id": "578",
+          "title": "Warhammer 40,000: Space Marine",
+          "url": "https://backloggd.com/games/warhammer-40-000-space-marine/"
+        },
+        {
+          "id": "257",
+          "title": "Warhammer 40,000: Dawn of War",
+          "url": "https://backloggd.com/games/warhammer-40-000-dawn-of-war/"
+        },
+        {
+          "id": "466",
+          "title": "Warhammer 40,000: Dawn of War II",
+          "url": "https://backloggd.com/games/warhammer-40-000-dawn-of-war-ii/"
+        },
+        {
+          "id": "110164",
+          "title": "DreadOut 2",
+          "url": "https://backloggd.com/games/dreadout-2/"
+        },
+        {
+          "id": "151120",
+          "title": "The Gap",
+          "url": "https://backloggd.com/games/the-gap/"
+        },
+        {
+          "id": "119801",
+          "title": "Figment 2: Creed Valley",
+          "url": "https://backloggd.com/games/figment-2-creed-valley/"
+        },
+        {
+          "id": "186882",
+          "title": "Beholder 3",
+          "url": "https://backloggd.com/games/beholder-3/"
+        },
+        {
+          "id": "106534",
+          "title": "Gravity Circuit",
+          "url": "https://backloggd.com/games/gravity-circuit/"
+        },
+        {
+          "id": "116",
+          "title": "Star Wars: Knights of the Old Republic",
+          "url": "https://backloggd.com/games/star-wars-knights-of-the-old-republic/"
+        },
+        {
+          "id": "118",
+          "title": "Star Wars: Knights of the Old Republic II - The Sith Lords",
+          "url": "https://backloggd.com/games/star-wars-knights-of-the-old-republic-ii-the-sith-lords/"
+        },
+        {
+          "id": "192434",
+          "title": "Samurai Bringer",
+          "url": "https://backloggd.com/games/samurai-bringer/"
+        },
+        {
+          "id": "25224",
+          "title": "The Invisible Hand",
+          "url": "https://backloggd.com/games/the-invisible-hand/"
+        },
+        {
+          "id": "27413",
+          "title": "Genesis Noir",
+          "url": "https://backloggd.com/games/genesis-noir/"
+        },
+        {
+          "id": "103320",
+          "title": "The Forgotten City",
+          "url": "https://backloggd.com/games/the-forgotten-city/"
+        },
+        {
+          "id": "107172",
+          "title": "Through the Darkest of Times",
+          "url": "https://backloggd.com/games/through-the-darkest-of-times/"
+        },
+        {
+          "id": "120407",
+          "title": "Evan's Remains",
+          "url": "https://backloggd.com/games/evans-remains/"
+        },
+        {
+          "id": "196030",
+          "title": "Shotgun King: the Final Checkmate",
+          "url": "https://backloggd.com/games/shotgun-king-the-final-checkmate/"
+        },
+        {
+          "id": "151385",
+          "title": "Absolute Tactics: Daughters of Mercy",
+          "url": "https://backloggd.com/games/absolute-tactics-daughters-of-mercy/"
+        },
+        {
+          "id": "115309",
+          "title": "Suzerain",
+          "url": "https://backloggd.com/games/suzerain/"
+        },
+        {
+          "id": "148",
+          "title": "Star Wars: Republic Commando",
+          "url": "https://backloggd.com/games/star-wars-republic-commando/"
+        },
+        {
+          "id": "35283",
+          "title": "The Darkside Detective",
+          "url": "https://backloggd.com/games/the-darkside-detective/"
+        },
+        {
+          "id": "109650",
+          "title": "The Darkside Detective: A Fumble in the Dark",
+          "url": "https://backloggd.com/games/the-darkside-detective-a-fumble-in-the-dark/"
+        },
+        {
+          "id": "117293",
+          "title": "Paper Beast",
+          "url": "https://backloggd.com/games/paper-beast/"
+        },
+        {
+          "id": "231650",
+          "title": "Endless Space: Definitive Edition",
+          "url": "https://backloggd.com/games/endless-space-definitive-edition/"
+        },
+        {
+          "id": "9278",
+          "title": "Endless Legend",
+          "url": "https://backloggd.com/games/endless-legend/"
+        },
+        {
+          "id": "233351",
+          "title": "Dungeon of the Endless: Definitive Edition",
+          "url": "https://backloggd.com/games/dungeon-of-the-endless-definitive-edition/"
+        },
+        {
+          "id": "255506",
+          "title": "Endless Space 2: Definitive Edition",
+          "url": "https://backloggd.com/games/endless-space-2-definitive-edition/"
+        },
+        {
+          "id": "9047",
+          "title": "Besiege",
+          "url": "https://backloggd.com/games/besiege/"
+        },
+        {
+          "id": "296641",
+          "title": "Besiege: The Splintered Sea",
+          "url": "https://backloggd.com/games/besiege-the-splintered-sea/"
+        },
+        {
+          "id": "138569",
+          "title": "Tormented Souls",
+          "url": "https://backloggd.com/games/tormented-souls/"
+        },
+        {
+          "id": "119247",
+          "title": "Gylt",
+          "url": "https://backloggd.com/games/gylt/"
+        },
+        {
+          "id": "291318",
+          "title": "Technotopia",
+          "url": "https://backloggd.com/games/technotopia/"
+        },
+        {
+          "id": "144585",
+          "title": "Dread Templar",
+          "url": "https://backloggd.com/games/dread-templar/"
+        },
+        {
+          "id": "238488",
+          "title": "Tavern Talk",
+          "url": "https://backloggd.com/games/tavern-talk/"
+        },
+        {
+          "id": "261627",
+          "title": "Lost Eidolons: Veil of the Witch",
+          "url": "https://backloggd.com/games/lost-eidolons-veil-of-the-witch/"
+        },
+        {
+          "id": "86558",
+          "title": "Terraforming Mars",
+          "url": "https://backloggd.com/games/terraforming-mars/"
+        },
+        {
+          "id": "145029",
+          "title": "Caravan SandWitch",
+          "url": "https://backloggd.com/games/caravan-sandwitch/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/amazon-games-owned/"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "Epic Games Owned",
+      "url": "https://backloggd.com/u/Gramotek/list/epic-games-owned/",
+      "count": 351,
+      "captured_at": "2026-10-19T18:48:54.784Z",
+      "games": [
+        {
+          "id": "199748",
+          "title": "20 Minutes Till Dawn",
+          "url": "https://backloggd.com/games/20-minutes-till-dawn/"
+        },
+        {
+          "id": "13171",
+          "title": "2064: Read Only Memories",
+          "url": "https://backloggd.com/games/2064-read-only-memories/"
+        },
+        {
+          "id": "138707",
+          "title": "3 out of 10: Season One",
+          "url": "https://backloggd.com/games/3-out-of-10-season-one/"
+        },
+        {
+          "id": "20927",
+          "title": "911 Operator",
+          "url": "https://backloggd.com/games/911-operator/"
+        },
+        {
+          "id": "27316",
+          "title": "A Plague Tale: Innocence",
+          "url": "https://backloggd.com/games/a-plague-tale-innocence/"
+        },
+        {
+          "id": "122649",
+          "title": "A Total War Saga: Troy",
+          "url": "https://backloggd.com/games/a-total-war-saga-troy/"
+        },
+        {
+          "id": "11587",
+          "title": "Absolute Drift",
+          "url": "https://backloggd.com/games/absolute-drift/"
+        },
+        {
+          "id": "138270",
+          "title": "Adios",
+          "url": "https://backloggd.com/games/adios/"
+        },
+        {
+          "id": "135919",
+          "title": "Alba: A Wildlife Adventure",
+          "url": "https://backloggd.com/games/alba-a-wildlife-adventure/"
+        },
+        {
+          "id": "4754",
+          "title": "Alien: Isolation",
+          "url": "https://backloggd.com/games/alien-isolation/"
+        },
+        {
+          "id": "131785",
+          "title": "Amnesia: Rebirth",
+          "url": "https://backloggd.com/games/amnesia-rebirth/"
+        },
+        {
+          "id": "10239",
+          "title": "Ark: Survival Evolved",
+          "url": "https://backloggd.com/games/ark-survival-evolved/"
+        },
+        {
+          "id": "118607",
+          "title": "Art of Rally",
+          "url": "https://backloggd.com/games/art-of-rally/"
+        },
+        {
+          "id": "185729",
+          "title": "Asteroids: Recharged",
+          "url": "https://backloggd.com/games/asteroids-recharged/"
+        },
+        {
+          "id": "217131",
+          "title": "Astro Duel 2",
+          "url": "https://backloggd.com/games/astro-duel-2/"
+        },
+        {
+          "id": "91477",
+          "title": "Before Your Eyes",
+          "url": "https://backloggd.com/games/before-your-eyes/"
+        },
+        {
+          "id": "34293",
+          "title": "BioShock Remastered",
+          "url": "https://backloggd.com/games/bioshock-remastered/"
+        },
+        {
+          "id": "34294",
+          "title": "BioShock 2 Remastered",
+          "url": "https://backloggd.com/games/bioshock-2-remastered/"
+        },
+        {
+          "id": "41595",
+          "title": "BioShock Infinite: The Complete Edition",
+          "url": "https://backloggd.com/games/bioshock-infinite-the-complete-edition/"
+        },
+        {
+          "id": "121894",
+          "title": "Black Book",
+          "url": "https://backloggd.com/games/black-book/"
+        },
+        {
+          "id": "175662",
+          "title": "Black Widow: Recharged",
+          "url": "https://backloggd.com/games/black-widow-recharged/"
+        },
+        {
+          "id": "138206",
+          "title": "Aerial_Knight's Never Yield",
+          "url": "https://backloggd.com/games/aerial-knights-never-yield/"
+        },
+        {
+          "id": "145319",
+          "title": "Arcade Paradise",
+          "url": "https://backloggd.com/games/arcade-paradise/"
+        },
+        {
+          "id": "134561",
+          "title": "Alex Kidd in Miracle World DX",
+          "url": "https://backloggd.com/games/alex-kidd-in-miracle-world-dx/"
+        },
+        {
+          "id": "205172",
+          "title": "Atari Mania",
+          "url": "https://backloggd.com/games/atari-mania/"
+        },
+        {
+          "id": "119298",
+          "title": "Blair Witch",
+          "url": "https://backloggd.com/games/blair-witch/"
+        },
+        {
+          "id": "114776",
+          "title": "Blazing Sails",
+          "url": "https://backloggd.com/games/blazing-sails/"
+        },
+        {
+          "id": "1011",
+          "title": "Borderlands 2",
+          "url": "https://backloggd.com/games/borderlands-2/"
+        },
+        {
+          "id": "19164",
+          "title": "Borderlands 3",
+          "url": "https://backloggd.com/games/borderlands-3/"
+        },
+        {
+          "id": "152124",
+          "title": "Bramble: The Mountain King",
+          "url": "https://backloggd.com/games/bramble-the-mountain-king/"
+        },
+        {
+          "id": "187471",
+          "title": "Breakout: Recharged",
+          "url": "https://backloggd.com/games/breakout-recharged/"
+        },
+        {
+          "id": "89326",
+          "title": "Breathedge",
+          "url": "https://backloggd.com/games/breathedge/"
+        },
+        {
+          "id": "1334",
+          "title": "Brothers: A Tale of Two Sons",
+          "url": "https://backloggd.com/games/brothers-a-tale-of-two-sons/"
+        },
+        {
+          "id": "133306",
+          "title": "Call of the Sea",
+          "url": "https://backloggd.com/games/call-of-the-sea/"
+        },
+        {
+          "id": "205775",
+          "title": "Call of the Wild: The Angler",
+          "url": "https://backloggd.com/games/call-of-the-wild-the-angler/"
+        },
+        {
+          "id": "136773",
+          "title": "Card Shark",
+          "url": "https://backloggd.com/games/card-shark/"
+        },
+        {
+          "id": "36597",
+          "title": "Cat Quest",
+          "url": "https://backloggd.com/games/cat-quest/"
+        },
+        {
+          "id": "101869",
+          "title": "Cat Quest II",
+          "url": "https://backloggd.com/games/cat-quest-ii/"
+        },
+        {
+          "id": "8214",
+          "title": "Cave Story+",
+          "url": "https://backloggd.com/games/cave-story-plus--1/"
+        },
+        {
+          "id": "233624",
+          "title": "Caverns of Mars: Recharged",
+          "url": "https://backloggd.com/games/caverns-of-mars-recharged/"
+        },
+        {
+          "id": "166683",
+          "title": "Centipede: Recharged",
+          "url": "https://backloggd.com/games/centipede-recharged/"
+        },
+        {
+          "id": "31561",
+          "title": "Chess Ultra",
+          "url": "https://backloggd.com/games/chess-ultra/"
+        },
+        {
+          "id": "119342",
+          "title": "Chivalry 2",
+          "url": "https://backloggd.com/games/chivalry-2/"
+        },
+        {
+          "id": "185757",
+          "title": "Circus Electrique",
+          "url": "https://backloggd.com/games/circus-electrique/"
+        },
+        {
+          "id": "9066",
+          "title": "Cities: Skylines",
+          "url": "https://backloggd.com/games/cities-skylines/"
+        },
+        {
+          "id": "144267",
+          "title": "City of Gangsters",
+          "url": "https://backloggd.com/games/city-of-gangsters/"
+        },
+        {
+          "id": "103329",
+          "title": "Control",
+          "url": "https://backloggd.com/games/control/"
+        },
+        {
+          "id": "119349",
+          "title": "Cris Tales",
+          "url": "https://backloggd.com/games/cris-tales/"
+        },
+        {
+          "id": "142358",
+          "title": "Cursed to Golf",
+          "url": "https://backloggd.com/games/cursed-to-golf/"
+        },
+        {
+          "id": "133904",
+          "title": "Cygni: All Guns Blazing",
+          "url": "https://backloggd.com/games/cygni-all-guns-blazing/"
+        },
+        {
+          "id": "103338",
+          "title": "Daemon X Machina",
+          "url": "https://backloggd.com/games/daemon-x-machina/"
+        },
+        {
+          "id": "202590",
+          "title": "Dakar Desert Rally",
+          "url": "https://backloggd.com/games/dakar-desert-rally/"
+        },
+        {
+          "id": "147215",
+          "title": "Dark Deity",
+          "url": "https://backloggd.com/games/dark-deity/"
+        },
+        {
+          "id": "8965",
+          "title": "Darkest Dungeon",
+          "url": "https://backloggd.com/games/darkest-dungeon/"
+        },
+        {
+          "id": "17032",
+          "title": "Darkwood",
+          "url": "https://backloggd.com/games/darkwood/"
+        },
+        {
+          "id": "18866",
+          "title": "Dead by Daylight",
+          "url": "https://backloggd.com/games/dead-by-daylight/"
+        },
+        {
+          "id": "19564",
+          "title": "Death Stranding",
+          "url": "https://backloggd.com/games/death-stranding/"
+        },
+        {
+          "id": "152130",
+          "title": "Death's Gambit: Afterlife",
+          "url": "https://backloggd.com/games/deaths-gambit-afterlife/"
+        },
+        {
+          "id": "113598",
+          "title": "Deathloop",
+          "url": "https://backloggd.com/games/deathloop/"
+        },
+        {
+          "id": "123192",
+          "title": "Deceive Inc.",
+          "url": "https://backloggd.com/games/deceive-inc/"
+        },
+        {
+          "id": "194740",
+          "title": "Deliver Us Mars",
+          "url": "https://backloggd.com/games/deliver-us-mars/"
+        },
+        {
+          "id": "106363",
+          "title": "Demon's Tilt",
+          "url": "https://backloggd.com/games/demons-tilt/"
+        },
+        {
+          "id": "25657",
+          "title": "Destiny 2",
+          "url": "https://backloggd.com/games/destiny-2/"
+        },
+        {
+          "id": "9498",
+          "title": "Deus Ex: Mankind Divided",
+          "url": "https://backloggd.com/games/deus-ex-mankind-divided/"
+        },
+        {
+          "id": "141540",
+          "title": "Disco Elysium: The Final Cut",
+          "url": "https://backloggd.com/games/disco-elysium-the-final-cut/"
+        },
+        {
+          "id": "20863",
+          "title": "Dishonored: Definitive Edition",
+          "url": "https://backloggd.com/games/dishonored-definitive-edition/"
+        },
+        {
+          "id": "37030",
+          "title": "Dishonored: Death of the Outsider",
+          "url": "https://backloggd.com/games/dishonored-death-of-the-outsider/"
+        },
+        {
+          "id": "204408",
+          "title": "DKO: Divine Knockout",
+          "url": "https://backloggd.com/games/dko-divine-knockout/"
+        },
+        {
+          "id": "142063",
+          "title": "DNF Duel",
+          "url": "https://backloggd.com/games/dnf-duel/"
+        },
+        {
+          "id": "152122",
+          "title": "Doki Doki Literature Club Plus!",
+          "url": "https://backloggd.com/games/doki-doki-literature-club-plus/"
+        },
+        {
+          "id": "224522",
+          "title": "Doom 64",
+          "url": "https://backloggd.com/games/doom-64--1/"
+        },
+        {
+          "id": "174803",
+          "title": "Doors: Paradox",
+          "url": "https://backloggd.com/games/doors-paradox/"
+        },
+        {
+          "id": "44545",
+          "title": "Dragon Age: Inquisition - Game of the Year Edition",
+          "url": "https://backloggd.com/games/dragon-age-inquisition-game-of-the-year-edition/"
+        },
+        {
+          "id": "16707",
+          "title": "Duskers",
+          "url": "https://backloggd.com/games/duskers/"
+        },
+        {
+          "id": "80895",
+          "title": "Earthlock",
+          "url": "https://backloggd.com/games/earthlock/"
+        },
+        {
+          "id": "118473",
+          "title": "Electrician Simulator",
+          "url": "https://backloggd.com/games/electrician-simulator/"
+        },
+        {
+          "id": "95407",
+          "title": "Encased",
+          "url": "https://backloggd.com/games/encased/"
+        },
+        {
+          "id": "11657",
+          "title": "Epistory: Typing Chronicles",
+          "url": "https://backloggd.com/games/epistory-typing-chronicles/"
+        },
+        {
+          "id": "194464",
+          "title": "Escape Academy",
+          "url": "https://backloggd.com/games/escape-academy/"
+        },
+        {
+          "id": "116400",
+          "title": "Eternal Threads",
+          "url": "https://backloggd.com/games/eternal-threads/"
+        },
+        {
+          "id": "1904",
+          "title": "Europa Universalis IV",
+          "url": "https://backloggd.com/games/europa-universalis-iv/"
+        },
+        {
+          "id": "141544",
+          "title": "Evil Dead: The Game",
+          "url": "https://backloggd.com/games/evil-dead-the-game--1/"
+        },
+        {
+          "id": "114910",
+          "title": "Evoland Legendary Edition",
+          "url": "https://backloggd.com/games/evoland-legendary-edition/"
+        },
+        {
+          "id": "96094",
+          "title": "Eximius: Seize the Frontline",
+          "url": "https://backloggd.com/games/eximius-seize-the-frontline/"
+        },
+        {
+          "id": "16523",
+          "title": "Expeditions: Conquistador",
+          "url": "https://backloggd.com/games/expeditions-conquistador/"
+        },
+        {
+          "id": "10501",
+          "title": "Expeditions: Viking",
+          "url": "https://backloggd.com/games/expeditions-viking/"
+        },
+        {
+          "id": "115851",
+          "title": "F.I.S.T.: Forged In Shadow Torch",
+          "url": "https://backloggd.com/games/f-dot-i-s-dot-t-forged-in-shadow-torch/"
+        },
+        {
+          "id": "13",
+          "title": "Fallout: A Post Nuclear Role Playing Game",
+          "url": "https://backloggd.com/games/fallout-a-post-nuclear-role-playing-game/"
+        },
+        {
+          "id": "14",
+          "title": "Fallout 2",
+          "url": "https://backloggd.com/games/fallout-2/"
+        },
+        {
+          "id": "21892",
+          "title": "Fallout 3: Game of the Year Edition",
+          "url": "https://backloggd.com/games/fallout-3-game-of-the-year-edition/"
+        },
+        {
+          "id": "16",
+          "title": "Fallout: New Vegas",
+          "url": "https://backloggd.com/games/fallout-new-vegas/"
+        },
+        {
+          "id": "17",
+          "title": "Fallout Tactics: Brotherhood of Steel",
+          "url": "https://backloggd.com/games/fallout-tactics-brotherhood-of-steel/"
+        },
+        {
+          "id": "146112",
+          "title": "Farming Simulator 22",
+          "url": "https://backloggd.com/games/farming-simulator-22/"
+        },
+        {
+          "id": "130182",
+          "title": "Floppy Knights",
+          "url": "https://backloggd.com/games/floppy-knights/"
+        },
+        {
+          "id": "121898",
+          "title": "First Class Trouble",
+          "url": "https://backloggd.com/games/first-class-trouble/"
+        },
+        {
+          "id": "168537",
+          "title": "Football Manager 2022",
+          "url": "https://backloggd.com/games/football-manager-2022/"
+        },
+        {
+          "id": "216178",
+          "title": "Football Manager 2023",
+          "url": "https://backloggd.com/games/football-manager-2023/"
+        },
+        {
+          "id": "20331",
+          "title": "For the King",
+          "url": "https://backloggd.com/games/for-the-king/"
+        },
+        {
+          "id": "219788",
+          "title": "Gamedec: Definitive Edition",
+          "url": "https://backloggd.com/games/gamedec-definitive-edition/"
+        },
+        {
+          "id": "121752",
+          "title": "Ghostrunner",
+          "url": "https://backloggd.com/games/ghostrunner/"
+        },
+        {
+          "id": "119308",
+          "title": "Ghostwire: Tokyo",
+          "url": "https://backloggd.com/games/ghostwire-tokyo/"
+        },
+        {
+          "id": "136977",
+          "title": "GigaBash",
+          "url": "https://backloggd.com/games/gigabash/"
+        },
+        {
+          "id": "288025",
+          "title": "Gigantic: Rampage Edition",
+          "url": "https://backloggd.com/games/gigantic-rampage-edition/"
+        },
+        {
+          "id": "106803",
+          "title": "Gloomhaven",
+          "url": "https://backloggd.com/games/gloomhaven/"
+        },
+        {
+          "id": "127343",
+          "title": "Godfall",
+          "url": "https://backloggd.com/games/godfall/"
+        },
+        {
+          "id": "141207",
+          "title": "Gods Will Fall",
+          "url": "https://backloggd.com/games/gods-will-fall/"
+        },
+        {
+          "id": "130218",
+          "title": "Golden Light",
+          "url": "https://backloggd.com/games/golden-light/"
+        },
+        {
+          "id": "134709",
+          "title": "Grand Theft Auto V",
+          "url": "https://backloggd.com/games/grand-theft-auto-v--1/"
+        },
+        {
+          "id": "199520",
+          "title": "Gravitar: Recharged",
+          "url": "https://backloggd.com/games/gravitar-recharged/"
+        },
+        {
+          "id": "121295",
+          "title": "Grime",
+          "url": "https://backloggd.com/games/grime/"
+        },
+        {
+          "id": "126329",
+          "title": "Neko Ghost, Jump!",
+          "url": "https://backloggd.com/games/neko-ghost-jump/"
+        },
+        {
+          "id": "146395",
+          "title": "Let's Build a Zoo",
+          "url": "https://backloggd.com/games/lets-build-a-zoo/"
+        },
+        {
+          "id": "75694",
+          "title": "Session: Skate Sim",
+          "url": "https://backloggd.com/games/session-skate-sim/"
+        },
+        {
+          "id": "152064",
+          "title": "Jurassic World Evolution 2",
+          "url": "https://backloggd.com/games/jurassic-world-evolution-2/"
+        },
+        {
+          "id": "18280",
+          "title": "Them's Fightin' Herds",
+          "url": "https://backloggd.com/games/thems-fightin-herds/"
+        },
+        {
+          "id": "228541",
+          "title": "Crime Boss: Rockay City",
+          "url": "https://backloggd.com/games/crime-boss-rockay-city/"
+        },
+        {
+          "id": "334254",
+          "title": "Grand Theft Auto V Enhanced",
+          "url": "https://backloggd.com/games/grand-theft-auto-v-enhanced--2/"
+        },
+        {
+          "id": "18869",
+          "title": "Mages of Mystralia",
+          "url": "https://backloggd.com/games/mages-of-mystralia/"
+        },
+        {
+          "id": "228744",
+          "title": "Redemption Reapers",
+          "url": "https://backloggd.com/games/redemption-reapers/"
+        },
+        {
+          "id": "119856",
+          "title": "Garden Story",
+          "url": "https://backloggd.com/games/garden-story/"
+        },
+        {
+          "id": "25227",
+          "title": "El Hijo: A Wild West Tale",
+          "url": "https://backloggd.com/games/el-hijo-a-wild-west-tale/"
+        },
+        {
+          "id": "138655",
+          "title": "Republic of Jungle",
+          "url": "https://backloggd.com/games/republic-of-jungle/"
+        },
+        {
+          "id": "290808",
+          "title": "F1 Manager 2024",
+          "url": "https://backloggd.com/games/f1-manager-2024/"
+        },
+        {
+          "id": "130216",
+          "title": "Hardspace: Shipbreaker",
+          "url": "https://backloggd.com/games/hardspace-shipbreaker/"
+        },
+        {
+          "id": "252491",
+          "title": "Lysfanga: The Time Shift Warrior",
+          "url": "https://backloggd.com/games/lysfanga-the-time-shift-warrior/"
+        },
+        {
+          "id": "330585",
+          "title": "AK-xolotl: Together",
+          "url": "https://backloggd.com/games/ak-xolotl-together/"
+        },
+        {
+          "id": "143129",
+          "title": "Sands of Aura",
+          "url": "https://backloggd.com/games/sands-of-aura/"
+        },
+        {
+          "id": "103373",
+          "title": "Beyond Blue",
+          "url": "https://backloggd.com/games/beyond-blue/"
+        },
+        {
+          "id": "121731",
+          "title": "Humankind",
+          "url": "https://backloggd.com/games/humankind/"
+        },
+        {
+          "id": "138858",
+          "title": "Ender Lilies: Quietus of the Knights",
+          "url": "https://backloggd.com/games/ender-lilies-quietus-of-the-knights/"
+        },
+        {
+          "id": "119360",
+          "title": "Undying",
+          "url": "https://backloggd.com/games/undying/"
+        },
+        {
+          "id": "119234",
+          "title": "Zombie Army 4: Dead War",
+          "url": "https://backloggd.com/games/zombie-army-4-dead-war/"
+        },
+        {
+          "id": "91306",
+          "title": "To the Rescue!",
+          "url": "https://backloggd.com/games/to-the-rescue/"
+        },
+        {
+          "id": "198629",
+          "title": "Star Stuff",
+          "url": "https://backloggd.com/games/star-stuff/"
+        },
+        {
+          "id": "148499",
+          "title": "Behind the Frame: The Finest Scenery",
+          "url": "https://backloggd.com/games/behind-the-frame-the-finest-scenery/"
+        },
+        {
+          "id": "199325",
+          "title": "Are You Smarter than a 5th Grader?",
+          "url": "https://backloggd.com/games/are-you-smarter-than-a-5th-grader--2/"
+        },
+        {
+          "id": "154770",
+          "title": "Skydrift Infinity",
+          "url": "https://backloggd.com/games/skydrift-infinity/"
+        },
+        {
+          "id": "19438",
+          "title": "Turmoil",
+          "url": "https://backloggd.com/games/turmoil--1/"
+        },
+        {
+          "id": "121235",
+          "title": "Eastern Exorcist",
+          "url": "https://backloggd.com/games/eastern-exorcist/"
+        },
+        {
+          "id": "32365",
+          "title": "Hell Let Loose",
+          "url": "https://backloggd.com/games/hell-let-loose/"
+        },
+        {
+          "id": "4843",
+          "title": "Kingdom Come: Deliverance",
+          "url": "https://backloggd.com/games/kingdom-come-deliverance/"
+        },
+        {
+          "id": "292844",
+          "title": "[Redacted]",
+          "url": "https://backloggd.com/games/redacted--1/"
+        },
+        {
+          "id": "296832",
+          "title": "Kill Knight",
+          "url": "https://backloggd.com/games/kill-knight/"
+        },
+        {
+          "id": "144072",
+          "title": "Hot Wheels Unleashed",
+          "url": "https://backloggd.com/games/hot-wheels-unleashed/"
+        },
+        {
+          "id": "250617",
+          "title": "Ghostrunner II",
+          "url": "https://backloggd.com/games/ghostrunner-ii/"
+        },
+        {
+          "id": "164867",
+          "title": "Dredge",
+          "url": "https://backloggd.com/games/dredge/"
+        },
+        {
+          "id": "186725",
+          "title": "Vampire Survivors",
+          "url": "https://backloggd.com/games/vampire-survivors/"
+        },
+        {
+          "id": "118272",
+          "title": "Predator: Hunting Grounds",
+          "url": "https://backloggd.com/games/predator-hunting-grounds/"
+        },
+        {
+          "id": "204460",
+          "title": "The Lord of the Rings: Return to Moria",
+          "url": "https://backloggd.com/games/the-lord-of-the-rings-return-to-moria/"
+        },
+        {
+          "id": "144725",
+          "title": "Necromunda: Hired Gun",
+          "url": "https://backloggd.com/games/necromunda-hired-gun/"
+        },
+        {
+          "id": "119305",
+          "title": "LEGO Star Wars: The Skywalker Saga",
+          "url": "https://backloggd.com/games/lego-star-wars-the-skywalker-saga/"
+        },
+        {
+          "id": "240037",
+          "title": "Bus Simulator 21: Next Stop",
+          "url": "https://backloggd.com/games/bus-simulator-21-next-stop/"
+        },
+        {
+          "id": "2955",
+          "title": "Elite: Dangerous",
+          "url": "https://backloggd.com/games/elite-dangerous/"
+        },
+        {
+          "id": "54996",
+          "title": "Jurassic World Evolution",
+          "url": "https://backloggd.com/games/jurassic-world-evolution/"
+        },
+        {
+          "id": "199116",
+          "title": "Brotato",
+          "url": "https://backloggd.com/games/brotato/"
+        },
+        {
+          "id": "885",
+          "title": "Super Meat Boy",
+          "url": "https://backloggd.com/games/super-meat-boy/"
+        },
+        {
+          "id": "24905",
+          "title": "Beholder",
+          "url": "https://backloggd.com/games/beholder/"
+        },
+        {
+          "id": "116138",
+          "title": "Castlevania Anniversary Collection",
+          "url": "https://backloggd.com/games/castlevania-anniversary-collection/"
+        },
+        {
+          "id": "303573",
+          "title": "House of Golf 2",
+          "url": "https://backloggd.com/games/house-of-golf-2/"
+        },
+        {
+          "id": "30408",
+          "title": "Witch It",
+          "url": "https://backloggd.com/games/witch-it/"
+        },
+        {
+          "id": "145099",
+          "title": "Death's Door",
+          "url": "https://backloggd.com/games/deaths-door/"
+        },
+        {
+          "id": "140866",
+          "title": "Stasis: Bone Totem",
+          "url": "https://backloggd.com/games/stasis-bone-totem/"
+        },
+        {
+          "id": "134817",
+          "title": "Morbid: The Seven Acolytes",
+          "url": "https://backloggd.com/games/morbid-the-seven-acolytes/"
+        },
+        {
+          "id": "106836",
+          "title": "Scarf",
+          "url": "https://backloggd.com/games/scarf/"
+        },
+        {
+          "id": "19249",
+          "title": "Empyrion: Galactic Survival",
+          "url": "https://backloggd.com/games/empyrion-galactic-survival/"
+        },
+        {
+          "id": "129234",
+          "title": "Outliver: Tribulation",
+          "url": "https://backloggd.com/games/outliver-tribulation/"
+        },
+        {
+          "id": "110993",
+          "title": "Priest Simulator: Vampire Show",
+          "url": "https://backloggd.com/games/priest-simulator-vampire-show/"
+        },
+        {
+          "id": "194682",
+          "title": "Ghostbusters: Spirits Unleashed",
+          "url": "https://backloggd.com/games/ghostbusters-spirits-unleashed/"
+        },
+        {
+          "id": "178093",
+          "title": "No Straight Roads: Encore Edition",
+          "url": "https://backloggd.com/games/no-straight-roads-encore-edition/"
+        },
+        {
+          "id": "121715",
+          "title": "The Eternal Cylinder",
+          "url": "https://backloggd.com/games/the-eternal-cylinder/"
+        },
+        {
+          "id": "136772",
+          "title": "Bear & Breakfast",
+          "url": "https://backloggd.com/games/bear-and-breakfast/"
+        },
+        {
+          "id": "134474",
+          "title": "The Spirit and the Mouse",
+          "url": "https://backloggd.com/games/the-spirit-and-the-mouse/"
+        },
+        {
+          "id": "133375",
+          "title": "The Last Stand: Aftermath",
+          "url": "https://backloggd.com/games/the-last-stand-aftermath/"
+        },
+        {
+          "id": "118193",
+          "title": "Toem",
+          "url": "https://backloggd.com/games/toem/"
+        },
+        {
+          "id": "154814",
+          "title": "Arcadegeddon",
+          "url": "https://backloggd.com/games/arcadegeddon/"
+        },
+        {
+          "id": "6707",
+          "title": "Tales from the Borderlands",
+          "url": "https://backloggd.com/games/tales-from-the-borderlands/"
+        },
+        {
+          "id": "6032",
+          "title": "Borderlands: The Pre-Sequel",
+          "url": "https://backloggd.com/games/borderlands-the-pre-sequel/"
+        },
+        {
+          "id": "203367",
+          "title": "Eternights",
+          "url": "https://backloggd.com/games/eternights/"
+        },
+        {
+          "id": "266382",
+          "title": "Football Manager 2024",
+          "url": "https://backloggd.com/games/football-manager-2024/"
+        },
+        {
+          "id": "107155",
+          "title": "Sniper Ghost Warrior Contracts",
+          "url": "https://backloggd.com/games/sniper-ghost-warrior-contracts/"
+        },
+        {
+          "id": "117422",
+          "title": "KeyWe",
+          "url": "https://backloggd.com/games/keywe/"
+        },
+        {
+          "id": "141538",
+          "title": "The Callisto Protocol",
+          "url": "https://backloggd.com/games/the-callisto-protocol/"
+        },
+        {
+          "id": "152203",
+          "title": "Trek to Yomi",
+          "url": "https://backloggd.com/games/trek-to-yomi/"
+        },
+        {
+          "id": "111544",
+          "title": "Maid of Sker",
+          "url": "https://backloggd.com/games/maid-of-sker/"
+        },
+        {
+          "id": "144465",
+          "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+          "url": "https://backloggd.com/games/teenage-mutant-ninja-turtles-shredders-revenge/"
+        },
+        {
+          "id": "124994",
+          "title": "Sunless Skies: Sovereign Edition",
+          "url": "https://backloggd.com/games/sunless-skies-sovereign-edition/"
+        },
+        {
+          "id": "197712",
+          "title": "MythForce",
+          "url": "https://backloggd.com/games/mythforce/"
+        },
+        {
+          "id": "186059",
+          "title": "Redout 2",
+          "url": "https://backloggd.com/games/redout-2/"
+        },
+        {
+          "id": "250504",
+          "title": "Weird West: Definitive Edition",
+          "url": "https://backloggd.com/games/weird-west-definitive-edition/"
+        },
+        {
+          "id": "165347",
+          "title": "Marvel's Midnight Suns",
+          "url": "https://backloggd.com/games/marvels-midnight-suns/"
+        },
+        {
+          "id": "121754",
+          "title": "Orcs Must Die! 3",
+          "url": "https://backloggd.com/games/orcs-must-die-3/"
+        },
+        {
+          "id": "252188",
+          "title": "Lisa: The Painful - Definitive Edition",
+          "url": "https://backloggd.com/games/lisa-the-painful-definitive-edition/"
+        },
+        {
+          "id": "252189",
+          "title": "Lisa: The Joyful - Definitive Edition",
+          "url": "https://backloggd.com/games/lisa-the-joyful-definitive-edition/"
+        },
+        {
+          "id": "121767",
+          "title": "The Big Con",
+          "url": "https://backloggd.com/games/the-big-con/"
+        },
+        {
+          "id": "14545",
+          "title": "Human Resource Machine",
+          "url": "https://backloggd.com/games/human-resource-machine/"
+        },
+        {
+          "id": "4786",
+          "title": "The Evil Within",
+          "url": "https://backloggd.com/games/the-evil-within/"
+        },
+        {
+          "id": "152262",
+          "title": "Soulstice",
+          "url": "https://backloggd.com/games/soulstice/"
+        },
+        {
+          "id": "15444",
+          "title": "Homeworld: Deserts of Kharak",
+          "url": "https://backloggd.com/games/homeworld-deserts-of-kharak/"
+        },
+        {
+          "id": "8773",
+          "title": "Homeworld: Remastered Collection",
+          "url": "https://backloggd.com/games/homeworld-remastered-collection/"
+        },
+        {
+          "id": "22704",
+          "title": "Orwell: Keeping an Eye on You",
+          "url": "https://backloggd.com/games/orwell-keeping-an-eye-on-you--1/"
+        },
+        {
+          "id": "3042",
+          "title": "Dying Light",
+          "url": "https://backloggd.com/games/dying-light/"
+        },
+        {
+          "id": "165247",
+          "title": "Quake",
+          "url": "https://backloggd.com/games/quake--1/"
+        },
+        {
+          "id": "152172",
+          "title": "Severed Steel",
+          "url": "https://backloggd.com/games/severed-steel/"
+        },
+        {
+          "id": "152266",
+          "title": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+          "url": "https://backloggd.com/games/warhammer-40000-chaos-gate-daemonhunters/"
+        },
+        {
+          "id": "116422",
+          "title": "Tails of Iron",
+          "url": "https://backloggd.com/games/tails-of-iron/"
+        },
+        {
+          "id": "79995",
+          "title": "Sable",
+          "url": "https://backloggd.com/games/sable/"
+        },
+        {
+          "id": "165346",
+          "title": "Saints Row",
+          "url": "https://backloggd.com/games/saints-row--1/"
+        },
+        {
+          "id": "7707",
+          "title": "Saints Row IV: Re-Elected",
+          "url": "https://backloggd.com/games/saints-row-iv-re-elected/"
+        },
+        {
+          "id": "145060",
+          "title": "Shadow Tactics: Blades of the Shogun - Aiko’s Choice",
+          "url": "https://backloggd.com/games/shadow-tactics-blades-of-the-shogun-aikos-choice/"
+        },
+        {
+          "id": "142101",
+          "title": "Saturnalia",
+          "url": "https://backloggd.com/games/saturnalia--1/"
+        },
+        {
+          "id": "134706",
+          "title": "Star Wars: Squadrons",
+          "url": "https://backloggd.com/games/star-wars-squadrons/"
+        },
+        {
+          "id": "2031",
+          "title": "Wolfenstein: The New Order",
+          "url": "https://backloggd.com/games/wolfenstein-the-new-order/"
+        },
+        {
+          "id": "10919",
+          "title": "XCOM 2",
+          "url": "https://backloggd.com/games/xcom-2/"
+        },
+        {
+          "id": "8729",
+          "title": "Vampyr",
+          "url": "https://backloggd.com/games/vampyr/"
+        },
+        {
+          "id": "102123",
+          "title": "The Vanishing of Ethan Carter Redux",
+          "url": "https://backloggd.com/games/the-vanishing-of-ethan-carter-redux/"
+        },
+        {
+          "id": "11542",
+          "title": "Shenmue III",
+          "url": "https://backloggd.com/games/shenmue-iii/"
+        },
+        {
+          "id": "68461",
+          "title": "Nioh: Complete Edition",
+          "url": "https://backloggd.com/games/nioh-complete-edition/"
+        },
+        {
+          "id": "16664",
+          "title": "Wargame: Red Dragon",
+          "url": "https://backloggd.com/games/wargame-red-dragon/"
+        },
+        {
+          "id": "101211",
+          "title": "Rage 2",
+          "url": "https://backloggd.com/games/rage-2/"
+        },
+        {
+          "id": "8925",
+          "title": "Sunless Sea",
+          "url": "https://backloggd.com/games/sunless-sea/"
+        },
+        {
+          "id": "8259",
+          "title": "Tacoma",
+          "url": "https://backloggd.com/games/tacoma/"
+        },
+        {
+          "id": "3221",
+          "title": "Rogue Legacy",
+          "url": "https://backloggd.com/games/rogue-legacy/"
+        },
+        {
+          "id": "105049",
+          "title": "Remnant: From the Ashes",
+          "url": "https://backloggd.com/games/remnant-from-the-ashes/"
+        },
+        {
+          "id": "11157",
+          "title": "Hitman",
+          "url": "https://backloggd.com/games/hitman/"
+        },
+        {
+          "id": "3020",
+          "title": "Shadowrun Returns",
+          "url": "https://backloggd.com/games/shadowrun-returns/"
+        },
+        {
+          "id": "8864",
+          "title": "Shadowrun: Dragonfall - Director's Cut",
+          "url": "https://backloggd.com/games/shadowrun-dragonfall-directors-cut/"
+        },
+        {
+          "id": "11772",
+          "title": "Shadowrun: Hong Kong",
+          "url": "https://backloggd.com/games/shadowrun-hong-kong/"
+        },
+        {
+          "id": "27117",
+          "title": "Into the Breach",
+          "url": "https://backloggd.com/games/into-the-breach/"
+        },
+        {
+          "id": "19441",
+          "title": "Watch Dogs 2",
+          "url": "https://backloggd.com/games/watch-dogs-2/"
+        },
+        {
+          "id": "75357",
+          "title": "Pillars of Eternity: Definitive Edition",
+          "url": "https://backloggd.com/games/pillars-of-eternity-definitive-edition/"
+        },
+        {
+          "id": "154526",
+          "title": "Tyranny: Gold Edition",
+          "url": "https://backloggd.com/games/tyranny-gold-edition/"
+        },
+        {
+          "id": "80853",
+          "title": "Metro 2033 Redux",
+          "url": "https://backloggd.com/games/metro-2033-redux/"
+        },
+        {
+          "id": "7342",
+          "title": "Inside",
+          "url": "https://backloggd.com/games/inside/"
+        },
+        {
+          "id": "10148",
+          "title": "Night in the Woods",
+          "url": "https://backloggd.com/games/night-in-the-woods/"
+        },
+        {
+          "id": "26401",
+          "title": "Star Wars Battlefront II",
+          "url": "https://backloggd.com/games/star-wars-battlefront-ii--1/"
+        },
+        {
+          "id": "50199",
+          "title": "Metro: Last Light Redux",
+          "url": "https://backloggd.com/games/metro-last-light-redux/"
+        },
+        {
+          "id": "36929",
+          "title": "Pathfinder: Kingmaker",
+          "url": "https://backloggd.com/games/pathfinder-kingmaker/"
+        },
+        {
+          "id": "89560",
+          "title": "Mutant Year Zero: Road to Eden",
+          "url": "https://backloggd.com/games/mutant-year-zero-road-to-eden/"
+        },
+        {
+          "id": "117533",
+          "title": "River City Girls",
+          "url": "https://backloggd.com/games/river-city-girls/"
+        },
+        {
+          "id": "138389",
+          "title": "The Last Show of Mr. Chardish",
+          "url": "https://backloggd.com/games/the-last-show-of-mr-chardish/"
+        },
+        {
+          "id": "140801",
+          "title": "Fashion Police Squad",
+          "url": "https://backloggd.com/games/fashion-police-squad/"
+        },
+        {
+          "id": "153398",
+          "title": "Troublemaker",
+          "url": "https://backloggd.com/games/troublemaker/"
+        },
+        {
+          "id": "141681",
+          "title": "Happy Game",
+          "url": "https://backloggd.com/games/happy-game/"
+        },
+        {
+          "id": "7329",
+          "title": "Dead Island 2",
+          "url": "https://backloggd.com/games/dead-island-2/"
+        },
+        {
+          "id": "144022",
+          "title": "Sifu",
+          "url": "https://backloggd.com/games/sifu/"
+        },
+        {
+          "id": "158921",
+          "title": "Gigapocalypse",
+          "url": "https://backloggd.com/games/gigapocalypse/"
+        },
+        {
+          "id": "177169",
+          "title": "Deliver At All Costs",
+          "url": "https://backloggd.com/games/deliver-at-all-costs/"
+        },
+        {
+          "id": "202691",
+          "title": "Chessarama",
+          "url": "https://backloggd.com/games/chessarama/"
+        },
+        {
+          "id": "216958",
+          "title": "The Operator",
+          "url": "https://backloggd.com/games/the-operator--1/"
+        },
+        {
+          "id": "20329",
+          "title": "Figment",
+          "url": "https://backloggd.com/games/figment/"
+        },
+        {
+          "id": "119801",
+          "title": "Figment 2: Creed Valley",
+          "url": "https://backloggd.com/games/figment-2-creed-valley/"
+        },
+        {
+          "id": "111",
+          "title": "Amnesia: The Dark Descent",
+          "url": "https://backloggd.com/games/amnesia-the-dark-descent/"
+        },
+        {
+          "id": "118450",
+          "title": "Keylocker: Turn Based Cyberpunk Action",
+          "url": "https://backloggd.com/games/keylocker-turn-based-cyberpunk-action/"
+        },
+        {
+          "id": "115270",
+          "title": "112 Operator",
+          "url": "https://backloggd.com/games/112-operator/"
+        },
+        {
+          "id": "11602",
+          "title": "Road Redemption",
+          "url": "https://backloggd.com/games/road-redemption/"
+        },
+        {
+          "id": "8900",
+          "title": "Monument Valley",
+          "url": "https://backloggd.com/games/monument-valley/"
+        },
+        {
+          "id": "185249",
+          "title": "Nightingale",
+          "url": "https://backloggd.com/games/nightingale--2/"
+        },
+        {
+          "id": "305291",
+          "title": "Vampire: The Masquerade - Reckoning of New York",
+          "url": "https://backloggd.com/games/vampire-the-masquerade-reckoning-of-new-york/"
+        },
+        {
+          "id": "106534",
+          "title": "Gravity Circuit",
+          "url": "https://backloggd.com/games/gravity-circuit/"
+        },
+        {
+          "id": "15537",
+          "title": "Samorost 3",
+          "url": "https://backloggd.com/games/samorost-3/"
+        },
+        {
+          "id": "228258",
+          "title": "Amnesia: The Bunker",
+          "url": "https://backloggd.com/games/amnesia-the-bunker/"
+        },
+        {
+          "id": "199130",
+          "title": "Fear the Spotlight",
+          "url": "https://backloggd.com/games/fear-the-spotlight/"
+        },
+        {
+          "id": "28311",
+          "title": "Bendy and the Ink Machine",
+          "url": "https://backloggd.com/games/bendy-and-the-ink-machine/"
+        },
+        {
+          "id": "283679",
+          "title": "Five Nights at Freddy's: Into the Pit",
+          "url": "https://backloggd.com/games/five-nights-at-freddys-into-the-pit/"
+        },
+        {
+          "id": "80006",
+          "title": "Felix the Reaper",
+          "url": "https://backloggd.com/games/felix-the-reaper/"
+        },
+        {
+          "id": "122522",
+          "title": "Gas Station Simulator",
+          "url": "https://backloggd.com/games/gas-station-simulator/"
+        },
+        {
+          "id": "102995",
+          "title": "Lovecraft's Untold Stories",
+          "url": "https://backloggd.com/games/lovecrafts-untold-stories/"
+        },
+        {
+          "id": "214139",
+          "title": "New Tales from the Borderlands",
+          "url": "https://backloggd.com/games/new-tales-from-the-borderlands/"
+        },
+        {
+          "id": "115899",
+          "title": "ScourgeBringer",
+          "url": "https://backloggd.com/games/scourgebringer/"
+        },
+        {
+          "id": "146042",
+          "title": "Zero Hour",
+          "url": "https://backloggd.com/games/zero-hour--1/"
+        },
+        {
+          "id": "238460",
+          "title": "Songs of Silence",
+          "url": "https://backloggd.com/games/songs-of-silence/"
+        },
+        {
+          "id": "151780",
+          "title": "Zoeti",
+          "url": "https://backloggd.com/games/zoeti/"
+        },
+        {
+          "id": "151353",
+          "title": "PlateUp!",
+          "url": "https://backloggd.com/games/plateup/"
+        },
+        {
+          "id": "151593",
+          "title": "Universe for Sale",
+          "url": "https://backloggd.com/games/universe-for-sale/"
+        },
+        {
+          "id": "35283",
+          "title": "The Darkside Detective",
+          "url": "https://backloggd.com/games/the-darkside-detective/"
+        },
+        {
+          "id": "242493",
+          "title": "LEGO 2K Drive",
+          "url": "https://backloggd.com/games/lego-2k-drive/"
+        },
+        {
+          "id": "136625",
+          "title": "Hogwarts Legacy",
+          "url": "https://backloggd.com/games/hogwarts-legacy/"
+        },
+        {
+          "id": "188555",
+          "title": "Blood West",
+          "url": "https://backloggd.com/games/blood-west/"
+        },
+        {
+          "id": "190964",
+          "title": "Sorry We're Closed",
+          "url": "https://backloggd.com/games/sorry-were-closed/"
+        },
+        {
+          "id": "127816",
+          "title": "Paradise Killer",
+          "url": "https://backloggd.com/games/paradise-killer/"
+        },
+        {
+          "id": "10760",
+          "title": "Bloodstained: Ritual of the Night",
+          "url": "https://backloggd.com/games/bloodstained-ritual-of-the-night/"
+        },
+        {
+          "id": "109535",
+          "title": "We Were Here Together",
+          "url": "https://backloggd.com/games/we-were-here-together/"
+        },
+        {
+          "id": "133866",
+          "title": "Cassette Beasts",
+          "url": "https://backloggd.com/games/cassette-beasts/"
+        },
+        {
+          "id": "125250",
+          "title": "Skald: Against the Black Priory",
+          "url": "https://backloggd.com/games/skald-against-the-black-priory/"
+        },
+        {
+          "id": "115766",
+          "title": "Trine: Ultimate Collection",
+          "url": "https://backloggd.com/games/trine-ultimate-collection/"
+        },
+        {
+          "id": "80961",
+          "title": "Total War: Three Kingdoms",
+          "url": "https://backloggd.com/games/total-war-three-kingdoms/"
+        },
+        {
+          "id": "336733",
+          "title": "Wildgate",
+          "url": "https://backloggd.com/games/wildgate/"
+        },
+        {
+          "id": "116166",
+          "title": "Dreamscaper",
+          "url": "https://backloggd.com/games/dreamscaper/"
+        },
+        {
+          "id": "19130",
+          "title": "Sid Meier's Civilization VI",
+          "url": "https://backloggd.com/games/sid-meiers-civilization-vi/"
+        },
+        {
+          "id": "6072",
+          "title": "Styx: Master of Shadows",
+          "url": "https://backloggd.com/games/styx-master-of-shadows/"
+        },
+        {
+          "id": "13554",
+          "title": "Styx: Shards of Darkness",
+          "url": "https://backloggd.com/games/styx-shards-of-darkness/"
+        },
+        {
+          "id": "99302",
+          "title": "Rustler",
+          "url": "https://backloggd.com/games/rustler/"
+        },
+        {
+          "id": "143078",
+          "title": "Definitely Not Fried Chicken",
+          "url": "https://backloggd.com/games/definitely-not-fried-chicken/"
+        },
+        {
+          "id": "225426",
+          "title": "Botany Manor",
+          "url": "https://backloggd.com/games/botany-manor/"
+        },
+        {
+          "id": "152061",
+          "title": "Tiny Tina's Wonderlands",
+          "url": "https://backloggd.com/games/tiny-tinas-wonderlands/"
+        },
+        {
+          "id": "109650",
+          "title": "The Darkside Detective: A Fumble in the Dark",
+          "url": "https://backloggd.com/games/the-darkside-detective-a-fumble-in-the-dark/"
+        },
+        {
+          "id": "290911",
+          "title": "Nobody Wants to Die",
+          "url": "https://backloggd.com/games/nobody-wants-to-die/"
+        },
+        {
+          "id": "8200",
+          "title": "Total War: Attila",
+          "url": "https://backloggd.com/games/total-war-attila/"
+        },
+        {
+          "id": "180298",
+          "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+          "url": "https://backloggd.com/games/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure/"
+        },
+        {
+          "id": "144800",
+          "title": "Cozy Grove",
+          "url": "https://backloggd.com/games/cozy-grove/"
+        },
+        {
+          "id": "158603",
+          "title": "Isonzo",
+          "url": "https://backloggd.com/games/isonzo/"
+        },
+        {
+          "id": "2359",
+          "title": "Total War: Rome II",
+          "url": "https://backloggd.com/games/total-war-rome-ii/"
+        },
+        {
+          "id": "396785",
+          "title": "Tomak: Save the Earth Regeneration",
+          "url": "https://backloggd.com/games/tomak-save-the-earth-regeneration--1/"
+        },
+        {
+          "id": "333730",
+          "title": "Total War: Pharaoh Dynasties",
+          "url": "https://backloggd.com/games/total-war-pharaoh-dynasties/"
+        },
+        {
+          "id": "138097",
+          "title": "The Stone of Madness",
+          "url": "https://backloggd.com/games/the-stone-of-madness/"
+        },
+        {
+          "id": "226869",
+          "title": "KinnikuNeko: Super Muscle Cat",
+          "url": "https://backloggd.com/games/kinnikuneko-super-muscle-cat/"
+        },
+        {
+          "id": "287847",
+          "title": "Arranger: A Role-Puzzling Adventure",
+          "url": "https://backloggd.com/games/arranger-a-role-puzzling-adventure/"
+        },
+        {
+          "id": "319359",
+          "title": "Sunderfolk",
+          "url": "https://backloggd.com/games/sunderfolk/"
+        },
+        {
+          "id": "127560",
+          "title": "Telltale Batman Shadows Edition",
+          "url": "https://backloggd.com/games/telltale-batman-shadows-edition/"
+        },
+        {
+          "id": "122733",
+          "title": "A Rat's Quest: The Way Back Home",
+          "url": "https://backloggd.com/games/a-rats-quest-the-way-back-home/"
+        },
+        {
+          "id": "266683",
+          "title": "Tomb Raider I•II•III Remastered",
+          "url": "https://backloggd.com/games/tomb-raider-i-star-ii-star-iii-remastered/"
+        },
+        {
+          "id": "124396",
+          "title": "Down in Bermuda",
+          "url": "https://backloggd.com/games/down-in-bermuda/"
+        },
+        {
+          "id": "314422",
+          "title": "Rogue Waters",
+          "url": "https://backloggd.com/games/rogue-waters/"
+        },
+        {
+          "id": "119346",
+          "title": "Songs of Conquest",
+          "url": "https://backloggd.com/games/songs-of-conquest--1/"
+        },
+        {
+          "id": "319480",
+          "title": "Tomb Raider IV•V•VI Remastered",
+          "url": "https://backloggd.com/games/tomb-raider-iv-star-v-star-vi-remastered/"
+        },
+        {
+          "id": "215098",
+          "title": "The Ouroboros King",
+          "url": "https://backloggd.com/games/the-ouroboros-king/"
+        },
+        {
+          "id": "250904",
+          "title": "Warhammer 40,000: Speed Freeks",
+          "url": "https://backloggd.com/games/warhammer-40000-speed-freeks/"
+        },
+        {
+          "id": "152271",
+          "title": "Citizen Sleeper",
+          "url": "https://backloggd.com/games/citizen-sleeper/"
+        },
+        {
+          "id": "192534",
+          "title": "Robobeat",
+          "url": "https://backloggd.com/games/robobeat/"
+        },
+        {
+          "id": "138341",
+          "title": "RollerCoaster Tycoon 3: Complete Edition",
+          "url": "https://backloggd.com/games/rollercoaster-tycoon-3-complete-edition/"
+        },
+        {
+          "id": "7578",
+          "title": "I Have No Mouth, and I Must Scream",
+          "url": "https://backloggd.com/games/i-have-no-mouth-and-i-must-scream/"
+        },
+        {
+          "id": "152321",
+          "title": "River City Girls 2",
+          "url": "https://backloggd.com/games/river-city-girls-2/"
+        },
+        {
+          "id": "192840",
+          "title": "Symphony of War: The Nephilim Saga",
+          "url": "https://backloggd.com/games/symphony-of-war-the-nephilim-saga/"
+        },
+        {
+          "id": "304747",
+          "title": "Echo Generation: Midnight Edition",
+          "url": "https://backloggd.com/games/echo-generation-midnight-edition/"
+        },
+        {
+          "id": "150241",
+          "title": "Luto",
+          "url": "https://backloggd.com/games/luto/"
+        },
+        {
+          "id": "195096",
+          "title": "Foretales",
+          "url": "https://backloggd.com/games/foretales/"
+        },
+        {
+          "id": "199736",
+          "title": "OTXO",
+          "url": "https://backloggd.com/games/otxo/"
+        },
+        {
+          "id": "286327",
+          "title": "Sol Cesto",
+          "url": "https://backloggd.com/games/sol-cesto/"
+        },
+        {
+          "id": "143113",
+          "title": "Beacon Pines",
+          "url": "https://backloggd.com/games/beacon-pines/"
+        },
+        {
+          "id": "167611",
+          "title": "Alan Wake Remastered",
+          "url": "https://backloggd.com/games/alan-wake-remastered/"
+        },
+        {
+          "id": "145029",
+          "title": "Caravan SandWitch",
+          "url": "https://backloggd.com/games/caravan-sandwitch/"
+        },
+        {
+          "id": "135670",
+          "title": "Steelrising",
+          "url": "https://backloggd.com/games/steelrising/"
+        },
+        {
+          "id": "154769",
+          "title": "Clash: Artifacts of Chaos",
+          "url": "https://backloggd.com/games/clash-artifacts-of-chaos/"
+        },
+        {
+          "id": "231336",
+          "title": "Airship: Kingdoms Adrift",
+          "url": "https://backloggd.com/games/airship-kingdoms-adrift/"
+        },
+        {
+          "id": "8635",
+          "title": "Alone With You",
+          "url": "https://backloggd.com/games/alone-with-you/"
+        },
+        {
+          "id": "5628",
+          "title": "Luftrausers",
+          "url": "https://backloggd.com/games/luftrausers/"
+        },
+        {
+          "id": "180876",
+          "title": "Astral Ascent",
+          "url": "https://backloggd.com/games/astral-ascent--1/"
+        },
+        {
+          "id": "317865",
+          "title": "Drop Duchy",
+          "url": "https://backloggd.com/games/drop-duchy/"
+        },
+        {
+          "id": "145074",
+          "title": "War Hospital",
+          "url": "https://backloggd.com/games/war-hospital/"
+        },
+        {
+          "id": "137044",
+          "title": "Mindcop",
+          "url": "https://backloggd.com/games/mindcop/"
+        },
+        {
+          "id": "208533",
+          "title": "Shogun Showdown",
+          "url": "https://backloggd.com/games/shogun-showdown/"
+        },
+        {
+          "id": "135668",
+          "title": "Rims Racing",
+          "url": "https://backloggd.com/games/rims-racing/"
+        },
+        {
+          "id": "134784",
+          "title": "Just Die Already",
+          "url": "https://backloggd.com/games/just-die-already/"
+        },
+        {
+          "id": "240897",
+          "title": "Mechabellum",
+          "url": "https://backloggd.com/games/mechabellum/"
+        },
+        {
+          "id": "178127",
+          "title": "Astrea: Six-Sided Oracles",
+          "url": "https://backloggd.com/games/astrea-six-sided-oracles/"
+        },
+        {
+          "id": "18927",
+          "title": "Hue",
+          "url": "https://backloggd.com/games/hue/"
+        },
+        {
+          "id": "204618",
+          "title": "High on Life",
+          "url": "https://backloggd.com/games/high-on-life/"
+        },
+        {
+          "id": "137192",
+          "title": "Buried Stars",
+          "url": "https://backloggd.com/games/buried-stars/"
+        },
+        {
+          "id": "143964",
+          "title": "System Shock 2: 25th Anniversary Remaster",
+          "url": "https://backloggd.com/games/system-shock-2-25th-anniversary-remaster/"
+        },
+        {
+          "id": "312565",
+          "title": "Out of Sight",
+          "url": "https://backloggd.com/games/out-of-sight--3/"
+        },
+        {
+          "id": "124992",
+          "title": "Vampire: The Masquerade - Swansong",
+          "url": "https://backloggd.com/games/vampire-the-masquerade-swansong/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/epic-games-owned/",
+        "https://backloggd.com/u/Gramotek/list/epic-games-owned?page=2",
+        "https://backloggd.com/u/Gramotek/list/epic-games-owned?page=3",
+        "https://backloggd.com/u/Gramotek/list/epic-games-owned?page=4"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "PlayStation Plus Essential",
+      "url": "https://backloggd.com/u/Gramotek/list/playstation-plus-essential-/",
+      "count": 136,
+      "captured_at": "2026-10-19T18:49:02.347Z",
+      "games": [
+        {
+          "id": "228531",
+          "title": "Immortals of Aveum",
+          "url": "https://backloggd.com/games/immortals-of-aveum/"
+        },
+        {
+          "id": "127842",
+          "title": "Skul: The Hero Slayer",
+          "url": "https://backloggd.com/games/skul-the-hero-slayer/"
+        },
+        {
+          "id": "135991",
+          "title": "Hello Neighbor 2",
+          "url": "https://backloggd.com/games/hello-neighbor-2/"
+        },
+        {
+          "id": "203366",
+          "title": "Rollerdrome",
+          "url": "https://backloggd.com/games/rollerdrome/"
+        },
+        {
+          "id": "135670",
+          "title": "Steelrising",
+          "url": "https://backloggd.com/games/steelrising/"
+        },
+        {
+          "id": "218744",
+          "title": "Silent Hill: The Short Message",
+          "url": "https://backloggd.com/games/silent-hill-the-short-message/"
+        },
+        {
+          "id": "141547",
+          "title": "Evil West",
+          "url": "https://backloggd.com/games/evil-west/"
+        },
+        {
+          "id": "79995",
+          "title": "Sable",
+          "url": "https://backloggd.com/games/sable/"
+        },
+        {
+          "id": "152242",
+          "title": "A Plague Tale: Requiem",
+          "url": "https://backloggd.com/games/a-plague-tale-requiem/"
+        },
+        {
+          "id": "134070",
+          "title": "Mafia: Definitive Edition",
+          "url": "https://backloggd.com/games/mafia-definitive-edition/"
+        },
+        {
+          "id": "134071",
+          "title": "Mafia II: Definitive Edition",
+          "url": "https://backloggd.com/games/mafia-ii-definitive-edition/"
+        },
+        {
+          "id": "141538",
+          "title": "The Callisto Protocol",
+          "url": "https://backloggd.com/games/the-callisto-protocol/"
+        },
+        {
+          "id": "250504",
+          "title": "Weird West: Definitive Edition",
+          "url": "https://backloggd.com/games/weird-west-definitive-edition/"
+        },
+        {
+          "id": "65445",
+          "title": "Generation Zero",
+          "url": "https://backloggd.com/games/generation-zero/"
+        },
+        {
+          "id": "167611",
+          "title": "Alan Wake Remastered",
+          "url": "https://backloggd.com/games/alan-wake-remastered/"
+        },
+        {
+          "id": "145099",
+          "title": "Death's Door",
+          "url": "https://backloggd.com/games/deaths-door/"
+        },
+        {
+          "id": "11155",
+          "title": "Dreams",
+          "url": "https://backloggd.com/games/dreams/"
+        },
+        {
+          "id": "137001",
+          "title": "Call of Duty: Black Ops Cold War",
+          "url": "https://backloggd.com/games/call-of-duty-black-ops-cold-war/"
+        },
+        {
+          "id": "105623",
+          "title": "Endling: Extinction is Forever",
+          "url": "https://backloggd.com/games/endling-extinction-is-forever/"
+        },
+        {
+          "id": "144153",
+          "title": "Aliens: Fireteam Elite",
+          "url": "https://backloggd.com/games/aliens-fireteam-elite/"
+        },
+        {
+          "id": "134585",
+          "title": "Sackboy: A Big Adventure",
+          "url": "https://backloggd.com/games/sackboy-a-big-adventure/"
+        },
+        {
+          "id": "119342",
+          "title": "Chivalry 2",
+          "url": "https://backloggd.com/games/chivalry-2/"
+        },
+        {
+          "id": "116422",
+          "title": "Tails of Iron",
+          "url": "https://backloggd.com/games/tails-of-iron/"
+        },
+        {
+          "id": "28168",
+          "title": "Code Vein",
+          "url": "https://backloggd.com/games/code-vein/"
+        },
+        {
+          "id": "159116",
+          "title": "Grid Legends",
+          "url": "https://backloggd.com/games/grid-legends/"
+        },
+        {
+          "id": "194210",
+          "title": "Ghostwire: Tokyo - Prelude: The Corrupted Casefile",
+          "url": "https://backloggd.com/games/ghostwire-tokyo-prelude-the-corrupted-casefile/"
+        },
+        {
+          "id": "19560",
+          "title": "God of War",
+          "url": "https://backloggd.com/games/god-of-war--1/"
+        },
+        {
+          "id": "27134",
+          "title": "Deep Rock Galactic",
+          "url": "https://backloggd.com/games/deep-rock-galactic/"
+        },
+        {
+          "id": "117731",
+          "title": "Persona 5 Strikers",
+          "url": "https://backloggd.com/games/persona-5-strikers/"
+        },
+        {
+          "id": "14362",
+          "title": "Detroit: Become Human",
+          "url": "https://backloggd.com/games/detroit-become-human--1/"
+        },
+        {
+          "id": "7331",
+          "title": "Uncharted 4: A Thief's End",
+          "url": "https://backloggd.com/games/uncharted-4-a-thief-s-end/"
+        },
+        {
+          "id": "11065",
+          "title": "Ratchet & Clank",
+          "url": "https://backloggd.com/games/ratchet-and-clank/"
+        },
+        {
+          "id": "117",
+          "title": "The Last Guardian",
+          "url": "https://backloggd.com/games/the-last-guardian/"
+        },
+        {
+          "id": "7609",
+          "title": "Until Dawn",
+          "url": "https://backloggd.com/games/until-dawn/"
+        },
+        {
+          "id": "1941",
+          "title": "Infamous: Second Son",
+          "url": "https://backloggd.com/games/infamous-second-son/"
+        },
+        {
+          "id": "5503",
+          "title": "Batman: Arkham Knight",
+          "url": "https://backloggd.com/games/batman-arkham-knight/"
+        },
+        {
+          "id": "19561",
+          "title": "Days Gone",
+          "url": "https://backloggd.com/games/days-gone/"
+        },
+        {
+          "id": "19562",
+          "title": "Resident Evil 7: Biohazard",
+          "url": "https://backloggd.com/games/resident-evil-7-biohazard/"
+        },
+        {
+          "id": "359",
+          "title": "Final Fantasy XV",
+          "url": "https://backloggd.com/games/final-fantasy-xv/"
+        },
+        {
+          "id": "9630",
+          "title": "Fallout 4",
+          "url": "https://backloggd.com/games/fallout-4/"
+        },
+        {
+          "id": "7292",
+          "title": "Mortal Kombat X",
+          "url": "https://backloggd.com/games/mortal-kombat-x/"
+        },
+        {
+          "id": "26196",
+          "title": "Crash Bandicoot N. Sane Trilogy",
+          "url": "https://backloggd.com/games/crash-bandicoot-n-sane-trilogy/"
+        },
+        {
+          "id": "18320",
+          "title": "Battlefield 1",
+          "url": "https://backloggd.com/games/battlefield-1/"
+        },
+        {
+          "id": "9509",
+          "title": "Call of Duty: Black Ops III",
+          "url": "https://backloggd.com/games/call-of-duty-black-ops-iii/"
+        },
+        {
+          "id": "40477",
+          "title": "Slay the Spire",
+          "url": "https://backloggd.com/games/slay-the-spire/"
+        },
+        {
+          "id": "135254",
+          "title": "Crash Bandicoot 4: It's About Time",
+          "url": "https://backloggd.com/games/crash-bandicoot-4-its-about-time/"
+        },
+        {
+          "id": "7334",
+          "title": "Bloodborne",
+          "url": "https://backloggd.com/games/bloodborne/"
+        },
+        {
+          "id": "133887",
+          "title": "Tony Hawk's Pro Skater 1+2",
+          "url": "https://backloggd.com/games/tony-hawks-pro-skater-1-plus-2/"
+        },
+        {
+          "id": "119161",
+          "title": "Need for Speed: Heat",
+          "url": "https://backloggd.com/games/need-for-speed-heat/"
+        },
+        {
+          "id": "113378",
+          "title": "Granblue Fantasy: Versus",
+          "url": "https://backloggd.com/games/granblue-fantasy-versus/"
+        },
+        {
+          "id": "118193",
+          "title": "Toem",
+          "url": "https://backloggd.com/games/toem/"
+        },
+        {
+          "id": "19470",
+          "title": "Injustice 2",
+          "url": "https://backloggd.com/games/injustice-2/"
+        },
+        {
+          "id": "7205",
+          "title": "SuperHot",
+          "url": "https://backloggd.com/games/superhot/"
+        },
+        {
+          "id": "143350",
+          "title": "Nioh 2 Remastered: The Complete Edition",
+          "url": "https://backloggd.com/games/nioh-2-remastered-the-complete-edition/"
+        },
+        {
+          "id": "121752",
+          "title": "Ghostrunner",
+          "url": "https://backloggd.com/games/ghostrunner/"
+        },
+        {
+          "id": "140839",
+          "title": "Mass Effect Legendary Edition",
+          "url": "https://backloggd.com/games/mass-effect-legendary-edition/"
+        },
+        {
+          "id": "54842",
+          "title": "Biomutant",
+          "url": "https://backloggd.com/games/biomutant/"
+        },
+        {
+          "id": "127269",
+          "title": "Axiom Verge 2",
+          "url": "https://backloggd.com/games/axiom-verge-2/"
+        },
+        {
+          "id": "145782",
+          "title": "OlliOlli World",
+          "url": "https://backloggd.com/games/olliolli-world/"
+        },
+        {
+          "id": "74701",
+          "title": "Star Wars Jedi: Fallen Order",
+          "url": "https://backloggd.com/games/star-wars-jedi-fallen-order/"
+        },
+        {
+          "id": "23733",
+          "title": "Tunic",
+          "url": "https://backloggd.com/games/tunic/"
+        },
+        {
+          "id": "250617",
+          "title": "Ghostrunner II",
+          "url": "https://backloggd.com/games/ghostrunner-ii/"
+        },
+        {
+          "id": "107262",
+          "title": "Streets of Rage 4",
+          "url": "https://backloggd.com/games/streets-of-rage-4/"
+        },
+        {
+          "id": "256092",
+          "title": "EA Sports FC 24",
+          "url": "https://backloggd.com/games/ea-sports-fc-24/"
+        },
+        {
+          "id": "119305",
+          "title": "LEGO Star Wars: The Skywalker Saga",
+          "url": "https://backloggd.com/games/lego-star-wars-the-skywalker-saga/"
+        },
+        {
+          "id": "138933",
+          "title": "Five Nights at Freddy's: Security Breach",
+          "url": "https://backloggd.com/games/five-nights-at-freddys-security-breach/"
+        },
+        {
+          "id": "138858",
+          "title": "Ender Lilies: Quietus of the Knights",
+          "url": "https://backloggd.com/games/ender-lilies-quietus-of-the-knights/"
+        },
+        {
+          "id": "19164",
+          "title": "Borderlands 3",
+          "url": "https://backloggd.com/games/borderlands-3/"
+        },
+        {
+          "id": "145216",
+          "title": "AEW: Fight Forever",
+          "url": "https://backloggd.com/games/aew-fight-forever/"
+        },
+        {
+          "id": "171219",
+          "title": "SpongeBob SquarePants: The Cosmic Shake",
+          "url": "https://backloggd.com/games/spongebob-squarepants-the-cosmic-shake/"
+        },
+        {
+          "id": "154775",
+          "title": "RoboCop: Rogue City",
+          "url": "https://backloggd.com/games/robocop-rogue-city/"
+        },
+        {
+          "id": "185238",
+          "title": "The Texas Chain Saw Massacre",
+          "url": "https://backloggd.com/games/the-texas-chain-saw-massacre/"
+        },
+        {
+          "id": "27920",
+          "title": "Digimon Story: Cyber Sleuth - Hacker's Memory",
+          "url": "https://backloggd.com/games/digimon-story-cyber-sleuth-hackers-memory/"
+        },
+        {
+          "id": "30208",
+          "title": "Dragon Age: The Veilguard",
+          "url": "https://backloggd.com/games/dragon-age-the-veilguard/"
+        },
+        {
+          "id": "194206",
+          "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+          "url": "https://backloggd.com/games/teenage-mutant-ninja-turtles-the-cowabunga-collection/"
+        },
+        {
+          "id": "150005",
+          "title": "Sonic Colors: Ultimate",
+          "url": "https://backloggd.com/games/sonic-colors-ultimate/"
+        },
+        {
+          "id": "27270",
+          "title": "Payday 3",
+          "url": "https://backloggd.com/games/payday-3/"
+        },
+        {
+          "id": "204618",
+          "title": "High on Life",
+          "url": "https://backloggd.com/games/high-on-life/"
+        },
+        {
+          "id": "206811",
+          "title": "Pac-Man World Re-Pac",
+          "url": "https://backloggd.com/games/pac-man-world-re-pac/"
+        },
+        {
+          "id": "113119",
+          "title": "The Stanley Parable: Ultra Deluxe",
+          "url": "https://backloggd.com/games/the-stanley-parable-ultra-deluxe/"
+        },
+        {
+          "id": "136627",
+          "title": "Suicide Squad: Kill the Justice League",
+          "url": "https://backloggd.com/games/suicide-squad-kill-the-justice-league/"
+        },
+        {
+          "id": "139346",
+          "title": "Need for Speed: Hot Pursuit - Remastered",
+          "url": "https://backloggd.com/games/need-for-speed-hot-pursuit-remastered/"
+        },
+        {
+          "id": "100357",
+          "title": "Temtem",
+          "url": "https://backloggd.com/games/temtem/"
+        },
+        {
+          "id": "135243",
+          "title": "It Takes Two",
+          "url": "https://backloggd.com/games/it-takes-two/"
+        },
+        {
+          "id": "204354",
+          "title": "Aliens: Dark Descent",
+          "url": "https://backloggd.com/games/aliens-dark-descent/"
+        },
+        {
+          "id": "320363",
+          "title": "Death Note: Killer Within",
+          "url": "https://backloggd.com/games/death-note-killer-within/"
+        },
+        {
+          "id": "159119",
+          "title": "Dead Space",
+          "url": "https://backloggd.com/games/dead-space--1/"
+        },
+        {
+          "id": "152122",
+          "title": "Doki Doki Literature Club Plus!",
+          "url": "https://backloggd.com/games/doki-doki-literature-club-plus/"
+        },
+        {
+          "id": "283600",
+          "title": "WWE 2K24",
+          "url": "https://backloggd.com/games/wwe-2k24/"
+        },
+        {
+          "id": "119308",
+          "title": "Ghostwire: Tokyo",
+          "url": "https://backloggd.com/games/ghostwire-tokyo/"
+        },
+        {
+          "id": "251471",
+          "title": "Hot Wheels Unleashed 2: Turbocharged",
+          "url": "https://backloggd.com/games/hot-wheels-unleashed-2-turbocharged/"
+        },
+        {
+          "id": "148241",
+          "title": "Lies of P",
+          "url": "https://backloggd.com/games/lies-of-p/"
+        },
+        {
+          "id": "142549",
+          "title": "Viewfinder",
+          "url": "https://backloggd.com/games/viewfinder/"
+        },
+        {
+          "id": "14741",
+          "title": "Psychonauts 2",
+          "url": "https://backloggd.com/games/psychonauts-2/"
+        },
+        {
+          "id": "17000",
+          "title": "Stardew Valley",
+          "url": "https://backloggd.com/games/stardew-valley/"
+        },
+        {
+          "id": "204627",
+          "title": "Cocoon",
+          "url": "https://backloggd.com/games/cocoon/"
+        },
+        {
+          "id": "185246",
+          "title": "Alan Wake II",
+          "url": "https://backloggd.com/games/alan-wake-ii/"
+        },
+        {
+          "id": "204360",
+          "title": "Goat Simulator 3",
+          "url": "https://backloggd.com/games/goat-simulator-3/"
+        },
+        {
+          "id": "21642",
+          "title": "Totally Accurate Battle Simulator",
+          "url": "https://backloggd.com/games/totally-accurate-battle-simulator/"
+        },
+        {
+          "id": "319197",
+          "title": "EA Sports WRC 24",
+          "url": "https://backloggd.com/games/ea-sports-wrc-24/"
+        },
+        {
+          "id": "110248",
+          "title": "Stray",
+          "url": "https://backloggd.com/games/stray/"
+        },
+        {
+          "id": "305003",
+          "title": "LEGO Horizon Adventures",
+          "url": "https://backloggd.com/games/lego-horizon-adventures/"
+        },
+        {
+          "id": "262530",
+          "title": "Killing Floor III",
+          "url": "https://backloggd.com/games/killing-floor-iii/"
+        },
+        {
+          "id": "127165",
+          "title": "The Outlast Trials",
+          "url": "https://backloggd.com/games/the-outlast-trials/"
+        },
+        {
+          "id": "217601",
+          "title": "Synduality: Echo of Ada",
+          "url": "https://backloggd.com/games/synduality-echo-of-ada/"
+        },
+        {
+          "id": "143612",
+          "title": "Neon White",
+          "url": "https://backloggd.com/games/neon-white/"
+        },
+        {
+          "id": "219442",
+          "title": "Need for Speed: Unbound",
+          "url": "https://backloggd.com/games/need-for-speed-unbound/"
+        },
+        {
+          "id": "152127",
+          "title": "Core Keeper",
+          "url": "https://backloggd.com/games/core-keeper/"
+        },
+        {
+          "id": "287849",
+          "title": "Epic Mickey: Rebrushed",
+          "url": "https://backloggd.com/games/epic-mickey-rebrushed/"
+        },
+        {
+          "id": "250626",
+          "title": "Ultros",
+          "url": "https://backloggd.com/games/ultros/"
+        },
+        {
+          "id": "14758",
+          "title": "Ace Combat 7: Skies Unknown",
+          "url": "https://backloggd.com/games/ace-combat-7-skies-unknown/"
+        },
+        {
+          "id": "146957",
+          "title": "Undisputed",
+          "url": "https://backloggd.com/games/undisputed/"
+        },
+        {
+          "id": "107315",
+          "title": "Subnautica: Below Zero",
+          "url": "https://backloggd.com/games/subnautica-below-zero/"
+        },
+        {
+          "id": "138950",
+          "title": "Monster Hunter Rise",
+          "url": "https://backloggd.com/games/monster-hunter-rise/"
+        },
+        {
+          "id": "328079",
+          "title": "PGA Tour 2K25",
+          "url": "https://backloggd.com/games/pga-tour-2k25/"
+        },
+        {
+          "id": "152243",
+          "title": "Slime Rancher 2",
+          "url": "https://backloggd.com/games/slime-rancher-2/"
+        },
+        {
+          "id": "306484",
+          "title": "The Elder Scrolls Online Collection: Gold Road",
+          "url": "https://backloggd.com/games/the-elder-scrolls-online-collection-gold-road/"
+        },
+        {
+          "id": "21593",
+          "title": "Lords of the Fallen",
+          "url": "https://backloggd.com/games/lords-of-the-fallen--2/"
+        },
+        {
+          "id": "287852",
+          "title": "Sword Art Online: Fractured Daydream",
+          "url": "https://backloggd.com/games/sword-art-online-fractured-daydream/"
+        },
+        {
+          "id": "266683",
+          "title": "Tomb Raider I•II•III Remastered",
+          "url": "https://backloggd.com/games/tomb-raider-i-star-ii-star-iii-remastered/"
+        },
+        {
+          "id": "194821",
+          "title": "Nine Sols",
+          "url": "https://backloggd.com/games/nine-sols/"
+        },
+        {
+          "id": "353848",
+          "title": "EA Sports FC 26",
+          "url": "https://backloggd.com/games/ea-sports-fc-26/"
+        },
+        {
+          "id": "171225",
+          "title": "Wuchang: Fallen Feathers",
+          "url": "https://backloggd.com/games/wuchang-fallen-feathers/"
+        },
+        {
+          "id": "259206",
+          "title": "Nickelodeon All-Star Brawl 2",
+          "url": "https://backloggd.com/games/nickelodeon-all-star-brawl-2/"
+        },
+        {
+          "id": "297696",
+          "title": "Grounded: Fully Yoked Edition",
+          "url": "https://backloggd.com/games/grounded-fully-yoked-edition/"
+        },
+        {
+          "id": "135998",
+          "title": "Warhammer 40,000: Darktide",
+          "url": "https://backloggd.com/games/warhammer-40000-darktide/"
+        },
+        {
+          "id": "35282",
+          "title": "CrossCode",
+          "url": "https://backloggd.com/games/crosscode/"
+        },
+        {
+          "id": "217311",
+          "title": "For the King II",
+          "url": "https://backloggd.com/games/for-the-king-ii/"
+        },
+        {
+          "id": "260780",
+          "title": "Call of Duty: Modern Warfare III",
+          "url": "https://backloggd.com/games/call-of-duty-modern-warfare-iii/"
+        },
+        {
+          "id": "314238",
+          "title": "Sniper Elite: Resistance",
+          "url": "https://backloggd.com/games/sniper-elite-resistance/"
+        },
+        {
+          "id": "387374",
+          "title": "MLB The Show 26",
+          "url": "https://backloggd.com/games/mlb-the-show-26/"
+        },
+        {
+          "id": "133344",
+          "title": "Wobbly Life",
+          "url": "https://backloggd.com/games/wobbly-life/"
+        },
+        {
+          "id": "117271",
+          "title": "Chained Echoes",
+          "url": "https://backloggd.com/games/chained-echoes/"
+        },
+        {
+          "id": "336964",
+          "title": "F1 25",
+          "url": "https://backloggd.com/games/f1-25/"
+        },
+        {
+          "id": "268010",
+          "title": "Earth Defense Force: World Brothers 2",
+          "url": "https://backloggd.com/games/earth-defense-force-world-brothers-2/"
+        },
+        {
+          "id": "7291",
+          "title": "Hunt: Showdown 1896",
+          "url": "https://backloggd.com/games/hunt-showdown-1896/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/playstation-plus-essential-/",
+        "https://backloggd.com/u/Gramotek/list/playstation-plus-essential-?page=2"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "Steam owned",
+      "url": "https://backloggd.com/u/Gramotek/list/steam-owned/",
+      "count": 186,
+      "captured_at": "2026-10-19T18:49:07.428Z",
+      "games": [
+        {
+          "id": "250616",
+          "title": "Helldivers 2",
+          "url": "https://backloggd.com/games/helldivers-2/"
+        },
+        {
+          "id": "132165",
+          "title": "Observer: System Redux",
+          "url": "https://backloggd.com/games/observer-system-redux/"
+        },
+        {
+          "id": "194207",
+          "title": "Valkyrie Elysium",
+          "url": "https://backloggd.com/games/valkyrie-elysium/"
+        },
+        {
+          "id": "25343",
+          "title": "Zero Escape: The Nonary Games",
+          "url": "https://backloggd.com/games/zero-escape-the-nonary-games/"
+        },
+        {
+          "id": "157176",
+          "title": "Dagon",
+          "url": "https://backloggd.com/games/dagon/"
+        },
+        {
+          "id": "152122",
+          "title": "Doki Doki Literature Club Plus!",
+          "url": "https://backloggd.com/games/doki-doki-literature-club-plus/"
+        },
+        {
+          "id": "131999",
+          "title": "NieR Replicant ver.1.22474487139...",
+          "url": "https://backloggd.com/games/nier-replicant-ver-dot-1-22474487139-dot-dot-dot/"
+        },
+        {
+          "id": "1011",
+          "title": "Borderlands 2",
+          "url": "https://backloggd.com/games/borderlands-2/"
+        },
+        {
+          "id": "103249",
+          "title": "11-11: Memories Retold",
+          "url": "https://backloggd.com/games/11-11-memories-retold/"
+        },
+        {
+          "id": "111",
+          "title": "Amnesia: The Dark Descent",
+          "url": "https://backloggd.com/games/amnesia-the-dark-descent/"
+        },
+        {
+          "id": "9016",
+          "title": "Apotheon",
+          "url": "https://backloggd.com/games/apotheon/"
+        },
+        {
+          "id": "193214",
+          "title": "A.W.O.L.",
+          "url": "https://backloggd.com/games/awol/"
+        },
+        {
+          "id": "119171",
+          "title": "Baldur's Gate III",
+          "url": "https://backloggd.com/games/baldurs-gate-iii/"
+        },
+        {
+          "id": "2365",
+          "title": "Battle for Wesnoth",
+          "url": "https://backloggd.com/games/battle-for-wesnoth/"
+        },
+        {
+          "id": "24905",
+          "title": "Beholder",
+          "url": "https://backloggd.com/games/beholder/"
+        },
+        {
+          "id": "6739",
+          "title": "Black Mesa",
+          "url": "https://backloggd.com/games/black-mesa/"
+        },
+        {
+          "id": "14206",
+          "title": "Blackwake",
+          "url": "https://backloggd.com/games/blackwake/"
+        },
+        {
+          "id": "1976",
+          "title": "Call of Juarez: Gunslinger",
+          "url": "https://backloggd.com/games/call-of-juarez-gunslinger/"
+        },
+        {
+          "id": "959",
+          "title": "Command & Conquer: Red Alert 3",
+          "url": "https://backloggd.com/games/command-conquer-red-alert-3/"
+        },
+        {
+          "id": "142076",
+          "title": "Cruelty Squad",
+          "url": "https://backloggd.com/games/cruelty-squad/"
+        },
+        {
+          "id": "1369",
+          "title": "Company of Heroes 2",
+          "url": "https://backloggd.com/games/company-of-heroes-2/"
+        },
+        {
+          "id": "13365",
+          "title": "Cryptark",
+          "url": "https://backloggd.com/games/cryptark/"
+        },
+        {
+          "id": "193452",
+          "title": "Cursed",
+          "url": "https://backloggd.com/games/cursed--1/"
+        },
+        {
+          "id": "544",
+          "title": "The Darkness II",
+          "url": "https://backloggd.com/games/the-darkness-ii/"
+        },
+        {
+          "id": "24311",
+          "title": "Dead Island: Riptide - Definitive Edition",
+          "url": "https://backloggd.com/games/dead-island-riptide-definitive-edition/"
+        },
+        {
+          "id": "43",
+          "title": "Deus Ex: Human Revolution",
+          "url": "https://backloggd.com/games/deus-ex-human-revolution/"
+        },
+        {
+          "id": "76217",
+          "title": "Doom",
+          "url": "https://backloggd.com/games/doom--1/"
+        },
+        {
+          "id": "103298",
+          "title": "Doom Eternal",
+          "url": "https://backloggd.com/games/doom-eternal/"
+        },
+        {
+          "id": "27911",
+          "title": "Dragon Age: Origins - Ultimate Edition",
+          "url": "https://backloggd.com/games/dragon-age-origins-ultimate-edition/"
+        },
+        {
+          "id": "472",
+          "title": "The Elder Scrolls V: Skyrim",
+          "url": "https://backloggd.com/games/the-elder-scrolls-v-skyrim/"
+        },
+        {
+          "id": "109367",
+          "title": "Enderal: Forgotten Stories",
+          "url": "https://backloggd.com/games/enderal-forgotten-stories/"
+        },
+        {
+          "id": "9278",
+          "title": "Endless Legend",
+          "url": "https://backloggd.com/games/endless-legend/"
+        },
+        {
+          "id": "231650",
+          "title": "Endless Space: Definitive Edition",
+          "url": "https://backloggd.com/games/endless-space-definitive-edition/"
+        },
+        {
+          "id": "529",
+          "title": "Far Cry 3",
+          "url": "https://backloggd.com/games/far-cry-3/"
+        },
+        {
+          "id": "228727",
+          "title": "The Feast",
+          "url": "https://backloggd.com/games/the-feast--1/"
+        },
+        {
+          "id": "65835",
+          "title": "Field of Glory II",
+          "url": "https://backloggd.com/games/field-of-glory-ii/"
+        },
+        {
+          "id": "144040",
+          "title": "Final Fantasy VII: Ever Crisis",
+          "url": "https://backloggd.com/games/final-fantasy-vii-ever-crisis/"
+        },
+        {
+          "id": "46575",
+          "title": "The Ur-Quan Masters",
+          "url": "https://backloggd.com/games/the-ur-quan-masters/"
+        },
+        {
+          "id": "23248",
+          "title": "Frostpunk",
+          "url": "https://backloggd.com/games/frostpunk/"
+        },
+        {
+          "id": "219788",
+          "title": "Gamedec: Definitive Edition",
+          "url": "https://backloggd.com/games/gamedec-definitive-edition/"
+        },
+        {
+          "id": "106803",
+          "title": "Gloomhaven",
+          "url": "https://backloggd.com/games/gloomhaven/"
+        },
+        {
+          "id": "231",
+          "title": "Half-Life",
+          "url": "https://backloggd.com/games/half-life/"
+        },
+        {
+          "id": "233",
+          "title": "Half-Life 2",
+          "url": "https://backloggd.com/games/half-life-2/"
+        },
+        {
+          "id": "338",
+          "title": "Half-Life 2: Episode One",
+          "url": "https://backloggd.com/games/half-life-2-episode-one/"
+        },
+        {
+          "id": "247",
+          "title": "Half-Life 2: Episode Two",
+          "url": "https://backloggd.com/games/half-life-2-episode-two/"
+        },
+        {
+          "id": "133152",
+          "title": "Helltaker",
+          "url": "https://backloggd.com/games/helltaker/"
+        },
+        {
+          "id": "125410",
+          "title": "I Wanna Maker",
+          "url": "https://backloggd.com/games/i-wanna-maker/"
+        },
+        {
+          "id": "25581",
+          "title": "Iron Harvest",
+          "url": "https://backloggd.com/games/iron-harvest/"
+        },
+        {
+          "id": "142940",
+          "title": "Juice Galaxy",
+          "url": "https://backloggd.com/games/juice-galaxy/"
+        },
+        {
+          "id": "4843",
+          "title": "Kingdom Come: Deliverance",
+          "url": "https://backloggd.com/games/kingdom-come-deliverance/"
+        },
+        {
+          "id": "33308",
+          "title": "The Lab",
+          "url": "https://backloggd.com/games/the-lab/"
+        },
+        {
+          "id": "199376",
+          "title": "Kemono Friends: Cellien May Cry",
+          "url": "https://backloggd.com/games/kemono-friends-cellien-may-cry/"
+        },
+        {
+          "id": "13360",
+          "title": "Zero-K",
+          "url": "https://backloggd.com/games/zero-k/"
+        },
+        {
+          "id": "18689",
+          "title": "Yume Nikki",
+          "url": "https://backloggd.com/games/yume-nikki/"
+        },
+        {
+          "id": "20740",
+          "title": "The Witcher 2: Assassins of Kings - Enhanced Edition",
+          "url": "https://backloggd.com/games/the-witcher-2-assassins-of-kings-enhanced-edition/"
+        },
+        {
+          "id": "124655",
+          "title": "Weird and Unfortunate Things Are Happening",
+          "url": "https://backloggd.com/games/weird-and-unfortunate-things-are-happening/"
+        },
+        {
+          "id": "76410",
+          "title": "Warhammer 40,000: Gladius - Relics of War",
+          "url": "https://backloggd.com/games/warhammer-40000-gladius-relics-of-war/"
+        },
+        {
+          "id": "135998",
+          "title": "Warhammer 40,000: Darktide",
+          "url": "https://backloggd.com/games/warhammer-40000-darktide/"
+        },
+        {
+          "id": "117112",
+          "title": "Ultra Fight Da Kyanta 2",
+          "url": "https://backloggd.com/games/ultra-fight-da-kyanta-2/"
+        },
+        {
+          "id": "284511",
+          "title": "Psychopomp",
+          "url": "https://backloggd.com/games/psychopomp/"
+        },
+        {
+          "id": "284151",
+          "title": "Anamnesia: Part 1 - Am I my Body?",
+          "url": "https://backloggd.com/games/anamnesia-part-1-am-i-my-body/"
+        },
+        {
+          "id": "257502",
+          "title": "Astra: Knights of Veda",
+          "url": "https://backloggd.com/games/astra-knights-of-veda/"
+        },
+        {
+          "id": "28028",
+          "title": "Total War: Warhammer II",
+          "url": "https://backloggd.com/games/total-war-warhammer-ii/"
+        },
+        {
+          "id": "9898",
+          "title": "Total War: Warhammer",
+          "url": "https://backloggd.com/games/total-war-warhammer/"
+        },
+        {
+          "id": "80961",
+          "title": "Total War: Three Kingdoms",
+          "url": "https://backloggd.com/games/total-war-three-kingdoms/"
+        },
+        {
+          "id": "432",
+          "title": "Total War: Shogun 2",
+          "url": "https://backloggd.com/games/total-war-shogun-2/"
+        },
+        {
+          "id": "29770",
+          "title": "Total War: Rome II - Emperor Edition",
+          "url": "https://backloggd.com/games/total-war-rome-ii-emperor-edition/"
+        },
+        {
+          "id": "442",
+          "title": "Napoleon: Total War",
+          "url": "https://backloggd.com/games/napoleon-total-war/"
+        },
+        {
+          "id": "441",
+          "title": "Empire: Total War",
+          "url": "https://backloggd.com/games/empire-total-war/"
+        },
+        {
+          "id": "8200",
+          "title": "Total War: Attila",
+          "url": "https://backloggd.com/games/total-war-attila/"
+        },
+        {
+          "id": "226605",
+          "title": "Teleforum",
+          "url": "https://backloggd.com/games/teleforum/"
+        },
+        {
+          "id": "890",
+          "title": "Syberia",
+          "url": "https://backloggd.com/games/syberia/"
+        },
+        {
+          "id": "6185",
+          "title": "Syberia II",
+          "url": "https://backloggd.com/games/syberia-ii/"
+        },
+        {
+          "id": "132959",
+          "title": "Stride",
+          "url": "https://backloggd.com/games/stride/"
+        },
+        {
+          "id": "93832",
+          "title": "Star Wars: Empire at War - Gold Pack",
+          "url": "https://backloggd.com/games/star-wars-empire-at-war-gold-pack/"
+        },
+        {
+          "id": "9924",
+          "title": "Sins of a Solar Empire: Rebellion",
+          "url": "https://backloggd.com/games/sins-of-a-solar-empire-rebellion/"
+        },
+        {
+          "id": "11064",
+          "title": "Shadow Warrior 2",
+          "url": "https://backloggd.com/games/shadow-warrior-2/"
+        },
+        {
+          "id": "13180",
+          "title": "Serious Sam HD: The First Encounter",
+          "url": "https://backloggd.com/games/serious-sam-hd-the-first-encounter/"
+        },
+        {
+          "id": "13181",
+          "title": "Serious Sam HD: The Second Encounter",
+          "url": "https://backloggd.com/games/serious-sam-hd-the-second-encounter/"
+        },
+        {
+          "id": "787",
+          "title": "Serious Sam II",
+          "url": "https://backloggd.com/games/serious-sam-ii/"
+        },
+        {
+          "id": "527",
+          "title": "Serious Sam 3: BFE",
+          "url": "https://backloggd.com/games/serious-sam-3-bfe/"
+        },
+        {
+          "id": "19543",
+          "title": "Serious Sam VR: The Last Hope",
+          "url": "https://backloggd.com/games/serious-sam-vr-the-last-hope/"
+        },
+        {
+          "id": "91116",
+          "title": "Serious Sam VR: The Second Encounter",
+          "url": "https://backloggd.com/games/serious-sam-vr-the-second-encounter/"
+        },
+        {
+          "id": "71",
+          "title": "Portal",
+          "url": "https://backloggd.com/games/portal/"
+        },
+        {
+          "id": "266774",
+          "title": "Moonring",
+          "url": "https://backloggd.com/games/moonring/"
+        },
+        {
+          "id": "8739",
+          "title": "Monaco: What's Yours Is Mine",
+          "url": "https://backloggd.com/games/monaco-whats-yours-is-mine/"
+        },
+        {
+          "id": "168099",
+          "title": "Martial Law",
+          "url": "https://backloggd.com/games/martial-law--1/"
+        },
+        {
+          "id": "42992",
+          "title": "Metro: Last Light - Complete Edition",
+          "url": "https://backloggd.com/games/metro-last-light-complete-edition/"
+        },
+        {
+          "id": "2042",
+          "title": "Magicka",
+          "url": "https://backloggd.com/games/magicka/"
+        },
+        {
+          "id": "104971",
+          "title": "AI: The Somnium Files",
+          "url": "https://backloggd.com/games/ai-the-somnium-files/"
+        },
+        {
+          "id": "1062",
+          "title": "Alan Wake",
+          "url": "https://backloggd.com/games/alan-wake/"
+        },
+        {
+          "id": "2551",
+          "title": "Alien Rage",
+          "url": "https://backloggd.com/games/alien-rage/"
+        },
+        {
+          "id": "27523",
+          "title": "Alien Swarm: Reactive Drop",
+          "url": "https://backloggd.com/games/alien-swarm-reactive-drop/"
+        },
+        {
+          "id": "250932",
+          "title": "Alone in the Dark Prologue: Grace in the Dark",
+          "url": "https://backloggd.com/games/alone-in-the-dark-prologue-grace-in-the-dark/"
+        },
+        {
+          "id": "500",
+          "title": "Batman: Arkham Asylum",
+          "url": "https://backloggd.com/games/batman-arkham-asylum/"
+        },
+        {
+          "id": "501",
+          "title": "Batman: Arkham City",
+          "url": "https://backloggd.com/games/batman-arkham-city/"
+        },
+        {
+          "id": "2136",
+          "title": "Bayonetta",
+          "url": "https://backloggd.com/games/bayonetta/"
+        },
+        {
+          "id": "6913",
+          "title": "Binary Domain",
+          "url": "https://backloggd.com/games/binary-domain/"
+        },
+        {
+          "id": "538",
+          "title": "BioShock Infinite",
+          "url": "https://backloggd.com/games/bioshock-infinite/"
+        },
+        {
+          "id": "5522",
+          "title": "Blackguards",
+          "url": "https://backloggd.com/games/blackguards/"
+        },
+        {
+          "id": "8335",
+          "title": "Blackguards 2",
+          "url": "https://backloggd.com/games/blackguards-2/"
+        },
+        {
+          "id": "9784",
+          "title": "Bridge Constructor",
+          "url": "https://backloggd.com/games/bridge-constructor/"
+        },
+        {
+          "id": "1334",
+          "title": "Brothers: A Tale of Two Sons",
+          "url": "https://backloggd.com/games/brothers-a-tale-of-two-sons/"
+        },
+        {
+          "id": "9176",
+          "title": "Call of Cthulhu",
+          "url": "https://backloggd.com/games/call-of-cthulhu/"
+        },
+        {
+          "id": "28168",
+          "title": "Code Vein",
+          "url": "https://backloggd.com/games/code-vein/"
+        },
+        {
+          "id": "7146",
+          "title": "The Dark Eye: Chains of Satinav",
+          "url": "https://backloggd.com/games/the-dark-eye-chains-of-satinav/"
+        },
+        {
+          "id": "8190",
+          "title": "Defense Grid: The Awakening",
+          "url": "https://backloggd.com/games/defense-grid-the-awakening/"
+        },
+        {
+          "id": "14362",
+          "title": "Detroit: Become Human",
+          "url": "https://backloggd.com/games/detroit-become-human--1/"
+        },
+        {
+          "id": "533",
+          "title": "Dishonored",
+          "url": "https://backloggd.com/games/dishonored/"
+        },
+        {
+          "id": "36911",
+          "title": "Dragon Ball FighterZ",
+          "url": "https://backloggd.com/games/dragon-ball-fighterz/"
+        },
+        {
+          "id": "9683",
+          "title": "Dungeon of the Endless",
+          "url": "https://backloggd.com/games/dungeon-of-the-endless/"
+        },
+        {
+          "id": "20329",
+          "title": "Figment",
+          "url": "https://backloggd.com/games/figment/"
+        },
+        {
+          "id": "11157",
+          "title": "Hitman",
+          "url": "https://backloggd.com/games/hitman/"
+        },
+        {
+          "id": "21004",
+          "title": "Jet Set Radio",
+          "url": "https://backloggd.com/games/jet-set-radio/"
+        },
+        {
+          "id": "1916",
+          "title": "Lost Planet 3",
+          "url": "https://backloggd.com/games/lost-planet-3/"
+        },
+        {
+          "id": "133308",
+          "title": "The Medium",
+          "url": "https://backloggd.com/games/the-medium/"
+        },
+        {
+          "id": "134070",
+          "title": "Mafia: Definitive Edition",
+          "url": "https://backloggd.com/games/mafia-definitive-edition/"
+        },
+        {
+          "id": "1985",
+          "title": "Metal Gear Solid V: The Phantom Pain",
+          "url": "https://backloggd.com/games/metal-gear-solid-v-the-phantom-pain/"
+        },
+        {
+          "id": "2977",
+          "title": "Mortal Kombat: Komplete Edition",
+          "url": "https://backloggd.com/games/mortal-kombat-komplete-edition/"
+        },
+        {
+          "id": "5551",
+          "title": "Nidhogg",
+          "url": "https://backloggd.com/games/nidhogg/"
+        },
+        {
+          "id": "11208",
+          "title": "NieR: Automata",
+          "url": "https://backloggd.com/games/nier-automata/"
+        },
+        {
+          "id": "2272",
+          "title": "No More Heroes",
+          "url": "https://backloggd.com/games/no-more-heroes/"
+        },
+        {
+          "id": "2273",
+          "title": "No More Heroes 2: Desperate Struggle",
+          "url": "https://backloggd.com/games/no-more-heroes-2-desperate-struggle/"
+        },
+        {
+          "id": "999",
+          "title": "Oddworld: Abe's Oddysee",
+          "url": "https://backloggd.com/games/oddworld-abe-s-oddysee/"
+        },
+        {
+          "id": "2985",
+          "title": "Persona 4 Golden",
+          "url": "https://backloggd.com/games/persona-4-golden/"
+        },
+        {
+          "id": "15108",
+          "title": "Resident Evil 0",
+          "url": "https://backloggd.com/games/resident-evil-0/"
+        },
+        {
+          "id": "1082",
+          "title": "Resident Evil 6",
+          "url": "https://backloggd.com/games/resident-evil-6/"
+        },
+        {
+          "id": "99302",
+          "title": "Rustler",
+          "url": "https://backloggd.com/games/rustler/"
+        },
+        {
+          "id": "80185",
+          "title": "Sega Genesis Classics",
+          "url": "https://backloggd.com/games/sega-genesis-classics/"
+        },
+        {
+          "id": "91191",
+          "title": "Serious Sam Fusion 2017",
+          "url": "https://backloggd.com/games/serious-sam-fusion-2017/"
+        },
+        {
+          "id": "18327",
+          "title": "ZanZarah: The Hidden Portal",
+          "url": "https://backloggd.com/games/zanzarah-the-hidden-portal/"
+        },
+        {
+          "id": "5617",
+          "title": "Yaiba: Ninja Gaiden Z",
+          "url": "https://backloggd.com/games/yaiba-ninja-gaiden-z/"
+        },
+        {
+          "id": "131833",
+          "title": "Without A Voice",
+          "url": "https://backloggd.com/games/without-a-voice/"
+        },
+        {
+          "id": "111081",
+          "title": "The Witch's House MV",
+          "url": "https://backloggd.com/games/the-witchs-house-mv/"
+        },
+        {
+          "id": "1942",
+          "title": "The Witcher 3: Wild Hunt",
+          "url": "https://backloggd.com/games/the-witcher-3-wild-hunt/"
+        },
+        {
+          "id": "115659",
+          "title": "Warsaw Rising: City of Heroes",
+          "url": "https://backloggd.com/games/warsaw-rising-city-of-heroes--1/"
+        },
+        {
+          "id": "51800",
+          "title": "Trine Enchanted Edition",
+          "url": "https://backloggd.com/games/trine-enchanted-edition/"
+        },
+        {
+          "id": "1377",
+          "title": "Spec Ops: The Line",
+          "url": "https://backloggd.com/games/spec-ops-the-line/"
+        },
+        {
+          "id": "1262",
+          "title": "South Park: The Stick of Truth",
+          "url": "https://backloggd.com/games/south-park-the-stick-of-truth/"
+        },
+        {
+          "id": "1065",
+          "title": "Street Fighter X Tekken",
+          "url": "https://backloggd.com/games/street-fighter-x-tekken/"
+        },
+        {
+          "id": "210395",
+          "title": "Slay the Princess",
+          "url": "https://backloggd.com/games/slay-the-princess/"
+        },
+        {
+          "id": "218282",
+          "title": "1000xResist",
+          "url": "https://backloggd.com/games/1000xresist/"
+        },
+        {
+          "id": "290911",
+          "title": "Nobody Wants to Die",
+          "url": "https://backloggd.com/games/nobody-wants-to-die/"
+        },
+        {
+          "id": "212438",
+          "title": "Sword of Convallaria: For This World of Peace",
+          "url": "https://backloggd.com/games/sword-of-convallaria-for-this-world-of-peace/"
+        },
+        {
+          "id": "185252",
+          "title": "Warhammer 40,000: Space Marine II",
+          "url": "https://backloggd.com/games/warhammer-40000-space-marine-ii/"
+        },
+        {
+          "id": "222341",
+          "title": "Silent Hill 2",
+          "url": "https://backloggd.com/games/silent-hill-2--1/"
+        },
+        {
+          "id": "255777",
+          "title": "MiSide",
+          "url": "https://backloggd.com/games/miside/"
+        },
+        {
+          "id": "7405",
+          "title": "Everybody's Gone to the Rapture",
+          "url": "https://backloggd.com/games/everybody-s-gone-to-the-rapture/"
+        },
+        {
+          "id": "325594",
+          "title": "Split Fiction",
+          "url": "https://backloggd.com/games/split-fiction/"
+        },
+        {
+          "id": "305152",
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://backloggd.com/games/clair-obscur-expedition-33/"
+        },
+        {
+          "id": "320137",
+          "title": "Cronos: The New Dawn",
+          "url": "https://backloggd.com/games/cronos-the-new-dawn/"
+        },
+        {
+          "id": "325609",
+          "title": "Dispatch",
+          "url": "https://backloggd.com/games/dispatch--3/"
+        },
+        {
+          "id": "318806",
+          "title": "Five Hearts Under One Roof",
+          "url": "https://backloggd.com/games/five-hearts-under-one-roof/"
+        },
+        {
+          "id": "370971",
+          "title": "Five Hearts Under One Roof 2",
+          "url": "https://backloggd.com/games/five-hearts-under-one-roof-2/"
+        },
+        {
+          "id": "262651",
+          "title": "Broken Sword: Shadow of the Templars Reforged",
+          "url": "https://backloggd.com/games/broken-sword-shadow-of-the-templars-reforged/"
+        },
+        {
+          "id": "290941",
+          "title": "Knowledge, or Know Lady",
+          "url": "https://backloggd.com/games/knowledge-or-know-lady/"
+        },
+        {
+          "id": "376847",
+          "title": "Z.A.T.O.: I Love the World and Everything In It",
+          "url": "https://backloggd.com/games/z-dot-a-t-dot-o-i-love-the-world-and-everything-in-it/"
+        },
+        {
+          "id": "339985",
+          "title": "Shadowverse: Worlds Beyond",
+          "url": "https://backloggd.com/games/shadowverse-worlds-beyond/"
+        },
+        {
+          "id": "320420",
+          "title": "The Children of Clay",
+          "url": "https://backloggd.com/games/the-children-of-clay/"
+        },
+        {
+          "id": "327736",
+          "title": "Everything Ends In 0",
+          "url": "https://backloggd.com/games/everything-ends-in-0/"
+        },
+        {
+          "id": "285220",
+          "title": "Krypta FM",
+          "url": "https://backloggd.com/games/krypta-fm/"
+        },
+        {
+          "id": "295664",
+          "title": "Nightmare Kart",
+          "url": "https://backloggd.com/games/nightmare-kart/"
+        },
+        {
+          "id": "258669",
+          "title": "Unsorted Horror",
+          "url": "https://backloggd.com/games/unsorted-horror/"
+        },
+        {
+          "id": "243385",
+          "title": "The Murder of Sonic the Hedgehog",
+          "url": "https://backloggd.com/games/the-murder-of-sonic-the-hedgehog/"
+        },
+        {
+          "id": "236961",
+          "title": "The Missing Parts of Maria Gwozdek",
+          "url": "https://backloggd.com/games/the-missing-parts-of-maria-gwozdek/"
+        },
+        {
+          "id": "204849",
+          "title": "The Looker",
+          "url": "https://backloggd.com/games/the-looker/"
+        },
+        {
+          "id": "191897",
+          "title": "Aperture Desk Job",
+          "url": "https://backloggd.com/games/aperture-desk-job/"
+        },
+        {
+          "id": "144554",
+          "title": "If on a Winter's Night, Four Travelers",
+          "url": "https://backloggd.com/games/if-on-a-winters-night-four-travelers/"
+        },
+        {
+          "id": "130185",
+          "title": "We Went Back",
+          "url": "https://backloggd.com/games/we-went-back/"
+        },
+        {
+          "id": "83877",
+          "title": "Shiver",
+          "url": "https://backloggd.com/games/shiver/"
+        },
+        {
+          "id": "14872",
+          "title": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",
+          "url": "https://backloggd.com/games/dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist/"
+        },
+        {
+          "id": "116634",
+          "title": "Beyond a Steel Sky",
+          "url": "https://backloggd.com/games/beyond-a-steel-sky/"
+        },
+        {
+          "id": "301298",
+          "title": "Deadlock",
+          "url": "https://backloggd.com/games/deadlock--2/"
+        },
+        {
+          "id": "332780",
+          "title": "R.E.P.O.",
+          "url": "https://backloggd.com/games/repo/"
+        },
+        {
+          "id": "65",
+          "title": "The Secret of Monkey Island: Special Edition",
+          "url": "https://backloggd.com/games/the-secret-of-monkey-island-special-edition/"
+        },
+        {
+          "id": "66",
+          "title": "Monkey Island 2 Special Edition: LeChuck's Revenge",
+          "url": "https://backloggd.com/games/monkey-island-2-special-edition-lechuck-s-revenge/"
+        },
+        {
+          "id": "62",
+          "title": "The Curse of Monkey Island",
+          "url": "https://backloggd.com/games/the-curse-of-monkey-island/"
+        },
+        {
+          "id": "63",
+          "title": "Escape from Monkey Island",
+          "url": "https://backloggd.com/games/escape-from-monkey-island/"
+        },
+        {
+          "id": "195517",
+          "title": "Return to Monkey Island",
+          "url": "https://backloggd.com/games/return-to-monkey-island/"
+        },
+        {
+          "id": "385688",
+          "title": "D1AL-ogue",
+          "url": "https://backloggd.com/games/d1al-ogue/"
+        },
+        {
+          "id": "5064",
+          "title": "Goodbye Deponia",
+          "url": "https://backloggd.com/games/goodbye-deponia/"
+        },
+        {
+          "id": "168668",
+          "title": "Uncharted 4: A Thief's End - Remastered",
+          "url": "https://backloggd.com/games/uncharted-4-a-thiefs-end-remastered/"
+        },
+        {
+          "id": "142415",
+          "title": "Indiana Jones and the Great Circle",
+          "url": "https://backloggd.com/games/indiana-jones-and-the-great-circle/"
+        },
+        {
+          "id": "321852",
+          "title": "Indiana Jones and the Great Circle: The Order of Giants",
+          "url": "https://backloggd.com/games/indiana-jones-and-the-great-circle-the-order-of-giants/"
+        },
+        {
+          "id": "168669",
+          "title": "Uncharted: The Lost Legacy - Remastered",
+          "url": "https://backloggd.com/games/uncharted-the-lost-legacy-remastered/"
+        },
+        {
+          "id": "137146",
+          "title": "RPG Maker MZ",
+          "url": "https://backloggd.com/games/rpg-maker-mz/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/steam-owned/",
+        "https://backloggd.com/u/Gramotek/list/steam-owned?page=2"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "GoG owned",
+      "url": "https://backloggd.com/u/Gramotek/list/gog-owned/",
+      "count": 219,
+      "captured_at": "2026-10-19T18:49:12.373Z",
+      "games": [
+        {
+          "id": "12482",
+          "title": "Layers of Fear",
+          "url": "https://backloggd.com/games/layers-of-fear/"
+        },
+        {
+          "id": "8682",
+          "title": "Grim Fandango Remastered",
+          "url": "https://backloggd.com/games/grim-fandango-remastered/"
+        },
+        {
+          "id": "5884",
+          "title": "The King of Fighters 2002",
+          "url": "https://backloggd.com/games/the-king-of-fighters-2002/"
+        },
+        {
+          "id": "372",
+          "title": "Heroes of Might and Magic V: Tribes of the East",
+          "url": "https://backloggd.com/games/heroes-of-might-and-magic-v-tribes-of-the-east/"
+        },
+        {
+          "id": "371",
+          "title": "Heroes of Might and Magic V: Hammers of Fate",
+          "url": "https://backloggd.com/games/heroes-of-might-and-magic-v-hammers-of-fate/"
+        },
+        {
+          "id": "370",
+          "title": "Heroes of Might and Magic V",
+          "url": "https://backloggd.com/games/heroes-of-might-and-magic-v/"
+        },
+        {
+          "id": "9767",
+          "title": "Dungeons 2",
+          "url": "https://backloggd.com/games/dungeons-2/"
+        },
+        {
+          "id": "1877",
+          "title": "Cyberpunk 2077",
+          "url": "https://backloggd.com/games/cyberpunk-2077/"
+        },
+        {
+          "id": "215769",
+          "title": "Cyberpunk 2077: Phantom Liberty",
+          "url": "https://backloggd.com/games/cyberpunk-2077-phantom-liberty/"
+        },
+        {
+          "id": "20275",
+          "title": "The Witcher: Enhanced Edition",
+          "url": "https://backloggd.com/games/the-witcher-enhanced-edition/"
+        },
+        {
+          "id": "121752",
+          "title": "Ghostrunner",
+          "url": "https://backloggd.com/games/ghostrunner/"
+        },
+        {
+          "id": "136604",
+          "title": "Control: Ultimate Edition",
+          "url": "https://backloggd.com/games/control-ultimate-edition/"
+        },
+        {
+          "id": "113108",
+          "title": "Journey to the Savage Planet",
+          "url": "https://backloggd.com/games/journey-to-the-savage-planet/"
+        },
+        {
+          "id": "19085",
+          "title": "Shadow Tactics: Blades of the Shogun",
+          "url": "https://backloggd.com/games/shadow-tactics-blades-of-the-shogun/"
+        },
+        {
+          "id": "11582",
+          "title": "Stellaris",
+          "url": "https://backloggd.com/games/stellaris/"
+        },
+        {
+          "id": "27845",
+          "title": "The Elder Scrolls IV: Oblivion - Game of the Year Edition",
+          "url": "https://backloggd.com/games/the-elder-scrolls-iv-oblivion-game-of-the-year-edition/"
+        },
+        {
+          "id": "8072",
+          "title": "Sanitarium",
+          "url": "https://backloggd.com/games/sanitarium/"
+        },
+        {
+          "id": "127936",
+          "title": "Daggerfall Unity",
+          "url": "https://backloggd.com/games/daggerfall-unity/"
+        },
+        {
+          "id": "56914",
+          "title": "Beautiful Desolation",
+          "url": "https://backloggd.com/games/beautiful-desolation/"
+        },
+        {
+          "id": "185854",
+          "title": "Flashback",
+          "url": "https://backloggd.com/games/flashback/"
+        },
+        {
+          "id": "36850",
+          "title": "VirtuaVerse",
+          "url": "https://backloggd.com/games/virtuaverse/"
+        },
+        {
+          "id": "25773",
+          "title": "Middle-earth: Shadow of Mordor - Game of the Year Edition",
+          "url": "https://backloggd.com/games/middle-earth-shadow-of-mordor-game-of-the-year-edition/"
+        },
+        {
+          "id": "3025",
+          "title": "Middle-earth: Shadow of Mordor",
+          "url": "https://backloggd.com/games/middle-earth-shadow-of-mordor/"
+        },
+        {
+          "id": "25532",
+          "title": "Fallout: New Vegas - Ultimate Edition",
+          "url": "https://backloggd.com/games/fallout-new-vegas-ultimate-edition/"
+        },
+        {
+          "id": "27409",
+          "title": "Narita Boy",
+          "url": "https://backloggd.com/games/narita-boy/"
+        },
+        {
+          "id": "7684",
+          "title": "Ghost of a Tale",
+          "url": "https://backloggd.com/games/ghost-of-a-tale/"
+        },
+        {
+          "id": "21127",
+          "title": "Broken Sword: Shadow of the Templars - The Director's Cut",
+          "url": "https://backloggd.com/games/broken-sword-shadow-of-the-templars-the-directors-cut/"
+        },
+        {
+          "id": "122126",
+          "title": "Greak: Memories of Azur",
+          "url": "https://backloggd.com/games/greak-memories-of-azur/"
+        },
+        {
+          "id": "11118",
+          "title": "Dishonored 2",
+          "url": "https://backloggd.com/games/dishonored-2/"
+        },
+        {
+          "id": "23891",
+          "title": "Daymare: 1998",
+          "url": "https://backloggd.com/games/daymare-1998/"
+        },
+        {
+          "id": "18860",
+          "title": "Beat Cop",
+          "url": "https://backloggd.com/games/beat-cop/"
+        },
+        {
+          "id": "36813",
+          "title": "The Evil Within 2",
+          "url": "https://backloggd.com/games/the-evil-within-2/"
+        },
+        {
+          "id": "146631",
+          "title": "Haven Park",
+          "url": "https://backloggd.com/games/haven-park/"
+        },
+        {
+          "id": "24775",
+          "title": "The Elder Scrolls III: Morrowind - Game of the Year Edition",
+          "url": "https://backloggd.com/games/the-elder-scrolls-iii-morrowind-game-of-the-year-edition/"
+        },
+        {
+          "id": "9964",
+          "title": "Alien Breed: Impact",
+          "url": "https://backloggd.com/games/alien-breed-impact/"
+        },
+        {
+          "id": "9963",
+          "title": "Alien Breed 3: Descent",
+          "url": "https://backloggd.com/games/alien-breed-3-descent/"
+        },
+        {
+          "id": "9962",
+          "title": "Alien Breed 2: Assault",
+          "url": "https://backloggd.com/games/alien-breed-2-assault/"
+        },
+        {
+          "id": "110875",
+          "title": "Lorelai",
+          "url": "https://backloggd.com/games/lorelai/"
+        },
+        {
+          "id": "88116",
+          "title": "The Beast Inside",
+          "url": "https://backloggd.com/games/the-beast-inside/"
+        },
+        {
+          "id": "23719",
+          "title": "Neverwinter Nights: Enhanced Edition",
+          "url": "https://backloggd.com/games/neverwinter-nights-enhanced-edition/"
+        },
+        {
+          "id": "50323",
+          "title": "Neverwinter Nights: Diamond",
+          "url": "https://backloggd.com/games/neverwinter-nights-diamond/"
+        },
+        {
+          "id": "19531",
+          "title": "Prey",
+          "url": "https://backloggd.com/games/prey--1/"
+        },
+        {
+          "id": "78536",
+          "title": "Beholder 2",
+          "url": "https://backloggd.com/games/beholder-2/"
+        },
+        {
+          "id": "161600",
+          "title": "The Whisperer",
+          "url": "https://backloggd.com/games/the-whisperer/"
+        },
+        {
+          "id": "7711",
+          "title": "Betrayer",
+          "url": "https://backloggd.com/games/betrayer/"
+        },
+        {
+          "id": "356",
+          "title": "Quake 4",
+          "url": "https://backloggd.com/games/quake-4/"
+        },
+        {
+          "id": "726",
+          "title": "Ghost Master",
+          "url": "https://backloggd.com/games/ghost-master/"
+        },
+        {
+          "id": "12470",
+          "title": "Requiem: Avenging Angel",
+          "url": "https://backloggd.com/games/requiem-avenging-angel/"
+        },
+        {
+          "id": "178218",
+          "title": "Ozymandias",
+          "url": "https://backloggd.com/games/ozymandias/"
+        },
+        {
+          "id": "121617",
+          "title": "The Coma 2: Vicious Sisters",
+          "url": "https://backloggd.com/games/the-coma-2-vicious-sisters/"
+        },
+        {
+          "id": "122195",
+          "title": "Monster Prom 2: Monster Camp",
+          "url": "https://backloggd.com/games/monster-prom-2-monster-camp/"
+        },
+        {
+          "id": "107178",
+          "title": "The Textorcist: The Story of Ray Bibbia",
+          "url": "https://backloggd.com/games/the-textorcist-the-story-of-ray-bibbia/"
+        },
+        {
+          "id": "6968",
+          "title": "Doom 3: BFG Edition",
+          "url": "https://backloggd.com/games/doom-3-bfg-edition/"
+        },
+        {
+          "id": "260028",
+          "title": "Doom 3",
+          "url": "https://backloggd.com/games/doom-3--3/"
+        },
+        {
+          "id": "55984",
+          "title": "Blacksad: Under the Skin",
+          "url": "https://backloggd.com/games/blacksad-under-the-skin/"
+        },
+        {
+          "id": "13554",
+          "title": "Styx: Shards of Darkness",
+          "url": "https://backloggd.com/games/styx-shards-of-darkness/"
+        },
+        {
+          "id": "142596",
+          "title": "Lost Ruins",
+          "url": "https://backloggd.com/games/lost-ruins/"
+        },
+        {
+          "id": "1880",
+          "title": "Baldur's Gate: Enhanced Edition",
+          "url": "https://backloggd.com/games/baldur-s-gate-enhanced-edition/"
+        },
+        {
+          "id": "5613",
+          "title": "Baldur's Gate II: Enhanced Edition",
+          "url": "https://backloggd.com/games/baldur-s-gate-ii-enhanced-edition/"
+        },
+        {
+          "id": "138733",
+          "title": "Lacuna",
+          "url": "https://backloggd.com/games/lacuna/"
+        },
+        {
+          "id": "140556",
+          "title": "South of the Circle",
+          "url": "https://backloggd.com/games/south-of-the-circle/"
+        },
+        {
+          "id": "5631",
+          "title": "The Temple of Elemental Evil",
+          "url": "https://backloggd.com/games/the-temple-of-elemental-evil/"
+        },
+        {
+          "id": "27988",
+          "title": "Planescape: Torment - Enhanced Edition",
+          "url": "https://backloggd.com/games/planescape-torment-enhanced-edition/"
+        },
+        {
+          "id": "36240",
+          "title": "Icewind Dale: Enhanced Edition",
+          "url": "https://backloggd.com/games/icewind-dale-enhanced-edition/"
+        },
+        {
+          "id": "51818",
+          "title": "Icewind Dale II Complete",
+          "url": "https://backloggd.com/games/icewind-dale-ii-complete/"
+        },
+        {
+          "id": "255",
+          "title": "Arcanum: of Steamworks and Magick Obscura",
+          "url": "https://backloggd.com/games/arcanum-of-steamworks-and-magick-obscura/"
+        },
+        {
+          "id": "8209",
+          "title": "Mordheim: City of the Damned",
+          "url": "https://backloggd.com/games/mordheim-city-of-the-damned/"
+        },
+        {
+          "id": "2667",
+          "title": "FlatOut",
+          "url": "https://backloggd.com/games/flatout/"
+        },
+        {
+          "id": "14",
+          "title": "Fallout 2",
+          "url": "https://backloggd.com/games/fallout-2/"
+        },
+        {
+          "id": "17",
+          "title": "Fallout Tactics: Brotherhood of Steel",
+          "url": "https://backloggd.com/games/fallout-tactics-brotherhood-of-steel/"
+        },
+        {
+          "id": "6844",
+          "title": "LEGO Star Wars III: The Clone Wars",
+          "url": "https://backloggd.com/games/lego-star-wars-iii-the-clone-wars/"
+        },
+        {
+          "id": "1164",
+          "title": "Tomb Raider",
+          "url": "https://backloggd.com/games/tomb-raider--2/"
+        },
+        {
+          "id": "21892",
+          "title": "Fallout 3: Game of the Year Edition",
+          "url": "https://backloggd.com/games/fallout-3-game-of-the-year-edition/"
+        },
+        {
+          "id": "138907",
+          "title": "The Lullaby of Life",
+          "url": "https://backloggd.com/games/the-lullaby-of-life/"
+        },
+        {
+          "id": "142",
+          "title": "Star Wars: Battlefront II",
+          "url": "https://backloggd.com/games/star-wars-battlefront-ii/"
+        },
+        {
+          "id": "429",
+          "title": "Call of Juarez",
+          "url": "https://backloggd.com/games/call-of-juarez/"
+        },
+        {
+          "id": "25580",
+          "title": "Forager",
+          "url": "https://backloggd.com/games/forager/"
+        },
+        {
+          "id": "430",
+          "title": "Call of Juarez: Bound In Blood",
+          "url": "https://backloggd.com/games/call-of-juarez-bound-in-blood/"
+        },
+        {
+          "id": "530",
+          "title": "Hitman: Absolution",
+          "url": "https://backloggd.com/games/hitman-absolution/"
+        },
+        {
+          "id": "212711",
+          "title": "Fallout: London",
+          "url": "https://backloggd.com/games/fallout-london/"
+        },
+        {
+          "id": "138244",
+          "title": "Midnight Fight Express",
+          "url": "https://backloggd.com/games/midnight-fight-express/"
+        },
+        {
+          "id": "146722",
+          "title": "Blast Brigade vs. the Evil Legion of Dr. Cread",
+          "url": "https://backloggd.com/games/blast-brigade-vs-the-evil-legion-of-dr-cread/"
+        },
+        {
+          "id": "15167",
+          "title": "SteamWorld Heist",
+          "url": "https://backloggd.com/games/steamworld-heist/"
+        },
+        {
+          "id": "1160",
+          "title": "Tomb Raider: Chronicles",
+          "url": "https://backloggd.com/games/tomb-raider-chronicles/"
+        },
+        {
+          "id": "1158",
+          "title": "Tomb Raider: The Last Revelation",
+          "url": "https://backloggd.com/games/tomb-raider-the-last-revelation/"
+        },
+        {
+          "id": "1159",
+          "title": "Tomb Raider: The Angel of Darkness",
+          "url": "https://backloggd.com/games/tomb-raider-the-angel-of-darkness/"
+        },
+        {
+          "id": "9498",
+          "title": "Deus Ex: Mankind Divided",
+          "url": "https://backloggd.com/games/deus-ex-mankind-divided/"
+        },
+        {
+          "id": "116014",
+          "title": "Hard West 2",
+          "url": "https://backloggd.com/games/hard-west-2/"
+        },
+        {
+          "id": "194506",
+          "title": "Stray Gods: The Roleplaying Musical",
+          "url": "https://backloggd.com/games/stray-gods-the-roleplaying-musical/"
+        },
+        {
+          "id": "104970",
+          "title": "En Garde!",
+          "url": "https://backloggd.com/games/en-garde/"
+        },
+        {
+          "id": "4969",
+          "title": "LEGO The Lord of the Rings",
+          "url": "https://backloggd.com/games/lego-the-lord-of-the-rings/"
+        },
+        {
+          "id": "128948",
+          "title": "Industria",
+          "url": "https://backloggd.com/games/industria/"
+        },
+        {
+          "id": "145319",
+          "title": "Arcade Paradise",
+          "url": "https://backloggd.com/games/arcade-paradise/"
+        },
+        {
+          "id": "27092",
+          "title": "GreedFall",
+          "url": "https://backloggd.com/games/greedfall/"
+        },
+        {
+          "id": "210947",
+          "title": "Showgunners",
+          "url": "https://backloggd.com/games/showgunners/"
+        },
+        {
+          "id": "198494",
+          "title": "Spells & Secrets",
+          "url": "https://backloggd.com/games/spells-and-secrets/"
+        },
+        {
+          "id": "27771",
+          "title": "Moonlighter",
+          "url": "https://backloggd.com/games/moonlighter/"
+        },
+        {
+          "id": "118313",
+          "title": "Hell Pie",
+          "url": "https://backloggd.com/games/hell-pie/"
+        },
+        {
+          "id": "142358",
+          "title": "Cursed to Golf",
+          "url": "https://backloggd.com/games/cursed-to-golf/"
+        },
+        {
+          "id": "143635",
+          "title": "9 Years of Shadows",
+          "url": "https://backloggd.com/games/9-years-of-shadows/"
+        },
+        {
+          "id": "121709",
+          "title": "The Falconeer: Revolution Remaster",
+          "url": "https://backloggd.com/games/the-falconeer-revolution-remaster/"
+        },
+        {
+          "id": "107300",
+          "title": "Thronebreaker: The Witcher Tales",
+          "url": "https://backloggd.com/games/thronebreaker-the-witcher-tales/"
+        },
+        {
+          "id": "3102",
+          "title": "Kerbal Space Program",
+          "url": "https://backloggd.com/games/kerbal-space-program/"
+        },
+        {
+          "id": "4844",
+          "title": "LEGO The Hobbit",
+          "url": "https://backloggd.com/games/lego-the-hobbit/"
+        },
+        {
+          "id": "18849",
+          "title": "Ghost Song",
+          "url": "https://backloggd.com/games/ghost-song/"
+        },
+        {
+          "id": "264591",
+          "title": "Hive Jump 2: Survivors",
+          "url": "https://backloggd.com/games/hive-jump-2-survivors/"
+        },
+        {
+          "id": "1161",
+          "title": "Tomb Raider: Legend",
+          "url": "https://backloggd.com/games/tomb-raider-legend/"
+        },
+        {
+          "id": "34293",
+          "title": "BioShock Remastered",
+          "url": "https://backloggd.com/games/bioshock-remastered/"
+        },
+        {
+          "id": "136000",
+          "title": "The Gunk",
+          "url": "https://backloggd.com/games/the-gunk/"
+        },
+        {
+          "id": "126725",
+          "title": "Pumpkin Jack",
+          "url": "https://backloggd.com/games/pumpkin-jack/"
+        },
+        {
+          "id": "129483",
+          "title": "Monster Train",
+          "url": "https://backloggd.com/games/monster-train/"
+        },
+        {
+          "id": "123269",
+          "title": "Coromon",
+          "url": "https://backloggd.com/games/coromon/"
+        },
+        {
+          "id": "19817",
+          "title": "Scorn",
+          "url": "https://backloggd.com/games/scorn/"
+        },
+        {
+          "id": "27316",
+          "title": "A Plague Tale: Innocence",
+          "url": "https://backloggd.com/games/a-plague-tale-innocence/"
+        },
+        {
+          "id": "134070",
+          "title": "Mafia: Definitive Edition",
+          "url": "https://backloggd.com/games/mafia-definitive-edition/"
+        },
+        {
+          "id": "20863",
+          "title": "Dishonored: Definitive Edition",
+          "url": "https://backloggd.com/games/dishonored-definitive-edition/"
+        },
+        {
+          "id": "208209",
+          "title": "Duck Paradox",
+          "url": "https://backloggd.com/games/duck-paradox/"
+        },
+        {
+          "id": "55027",
+          "title": "Close to the Sun",
+          "url": "https://backloggd.com/games/close-to-the-sun/"
+        },
+        {
+          "id": "12014",
+          "title": "Chasm: The Rift",
+          "url": "https://backloggd.com/games/chasm-the-rift/"
+        },
+        {
+          "id": "173433",
+          "title": "Blade of Darkness",
+          "url": "https://backloggd.com/games/blade-of-darkness/"
+        },
+        {
+          "id": "1162",
+          "title": "Tomb Raider: Anniversary",
+          "url": "https://backloggd.com/games/tomb-raider-anniversary/"
+        },
+        {
+          "id": "19934",
+          "title": "Riot: Civil Unrest",
+          "url": "https://backloggd.com/games/riot-civil-unrest/"
+        },
+        {
+          "id": "42933",
+          "title": "Overcooked: Gourmet Edition",
+          "url": "https://backloggd.com/games/overcooked-gourmet-edition/"
+        },
+        {
+          "id": "194507",
+          "title": "Moonscars",
+          "url": "https://backloggd.com/games/moonscars/"
+        },
+        {
+          "id": "142703",
+          "title": "Sir Whoopass: Immortal Death",
+          "url": "https://backloggd.com/games/sir-whoopass-immortal-death/"
+        },
+        {
+          "id": "208533",
+          "title": "Shogun Showdown",
+          "url": "https://backloggd.com/games/shogun-showdown/"
+        },
+        {
+          "id": "1976",
+          "title": "Call of Juarez: Gunslinger",
+          "url": "https://backloggd.com/games/call-of-juarez-gunslinger/"
+        },
+        {
+          "id": "1163",
+          "title": "Tomb Raider: Underworld",
+          "url": "https://backloggd.com/games/tomb-raider-underworld/"
+        },
+        {
+          "id": "4180",
+          "title": "Star Wars: Bounty Hunter",
+          "url": "https://backloggd.com/games/star-wars-bounty-hunter/"
+        },
+        {
+          "id": "261085",
+          "title": "Quake II",
+          "url": "https://backloggd.com/games/quake-ii--1/"
+        },
+        {
+          "id": "3029",
+          "title": "Spelunky",
+          "url": "https://backloggd.com/games/spelunky/"
+        },
+        {
+          "id": "95068",
+          "title": "Space Hulk: Deathwing - Enhanced Edition",
+          "url": "https://backloggd.com/games/space-hulk-deathwing-enhanced-edition/"
+        },
+        {
+          "id": "103341",
+          "title": "Overcooked! 2",
+          "url": "https://backloggd.com/games/overcooked-2/"
+        },
+        {
+          "id": "164867",
+          "title": "Dredge",
+          "url": "https://backloggd.com/games/dredge/"
+        },
+        {
+          "id": "113114",
+          "title": "The Outer Worlds",
+          "url": "https://backloggd.com/games/the-outer-worlds/"
+        },
+        {
+          "id": "51385",
+          "title": "The Coma: Recut",
+          "url": "https://backloggd.com/games/the-coma-recut/"
+        },
+        {
+          "id": "152071",
+          "title": "Planet of Lana",
+          "url": "https://backloggd.com/games/planet-of-lana/"
+        },
+        {
+          "id": "145822",
+          "title": "Hero's Hour",
+          "url": "https://backloggd.com/games/heros-hour/"
+        },
+        {
+          "id": "18157",
+          "title": "The Town of Light",
+          "url": "https://backloggd.com/games/the-town-of-light/"
+        },
+        {
+          "id": "34294",
+          "title": "BioShock 2 Remastered",
+          "url": "https://backloggd.com/games/bioshock-2-remastered/"
+        },
+        {
+          "id": "114415",
+          "title": "SteamWorld Quest: Hand of Gilgamech",
+          "url": "https://backloggd.com/games/steamworld-quest-hand-of-gilgamech/"
+        },
+        {
+          "id": "18452",
+          "title": "Grip",
+          "url": "https://backloggd.com/games/grip/"
+        },
+        {
+          "id": "188555",
+          "title": "Blood West",
+          "url": "https://backloggd.com/games/blood-west/"
+        },
+        {
+          "id": "25358",
+          "title": "Deus Ex: Game of the Year Edition",
+          "url": "https://backloggd.com/games/deus-ex-game-of-the-year-edition/"
+        },
+        {
+          "id": "53774",
+          "title": "The Talos Principle: Gold Edition",
+          "url": "https://backloggd.com/games/the-talos-principle-gold-edition/"
+        },
+        {
+          "id": "41595",
+          "title": "BioShock Infinite: The Complete Edition",
+          "url": "https://backloggd.com/games/bioshock-infinite-the-complete-edition/"
+        },
+        {
+          "id": "290393",
+          "title": "Dark Sky",
+          "url": "https://backloggd.com/games/dark-sky/"
+        },
+        {
+          "id": "114074",
+          "title": "Colt Canyon",
+          "url": "https://backloggd.com/games/colt-canyon/"
+        },
+        {
+          "id": "122729",
+          "title": "Yes, Your Grace",
+          "url": "https://backloggd.com/games/yes-your-grace/"
+        },
+        {
+          "id": "9740",
+          "title": "Deus Ex: Human Revolution - Director's Cut",
+          "url": "https://backloggd.com/games/deus-ex-human-revolution-directors-cut/"
+        },
+        {
+          "id": "134071",
+          "title": "Mafia II: Definitive Edition",
+          "url": "https://backloggd.com/games/mafia-ii-definitive-edition/"
+        },
+        {
+          "id": "132097",
+          "title": "Saints Row: The Third Remastered",
+          "url": "https://backloggd.com/games/saints-row-the-third-remastered/"
+        },
+        {
+          "id": "227862",
+          "title": "Dark Deity: Complete Edition",
+          "url": "https://backloggd.com/games/dark-deity-complete-edition/"
+        },
+        {
+          "id": "121763",
+          "title": "Syberia: The World Before",
+          "url": "https://backloggd.com/games/syberia-the-world-before/"
+        },
+        {
+          "id": "5901",
+          "title": "Legacy of Kain: Defiance",
+          "url": "https://backloggd.com/games/legacy-of-kain-defiance/"
+        },
+        {
+          "id": "64957",
+          "title": "Mutazione",
+          "url": "https://backloggd.com/games/mutazione/"
+        },
+        {
+          "id": "219788",
+          "title": "Gamedec: Definitive Edition",
+          "url": "https://backloggd.com/games/gamedec-definitive-edition/"
+        },
+        {
+          "id": "42",
+          "title": "Deus Ex: Invisible War",
+          "url": "https://backloggd.com/games/deus-ex-invisible-war/"
+        },
+        {
+          "id": "134073",
+          "title": "Mafia III: Definitive Edition",
+          "url": "https://backloggd.com/games/mafia-iii-definitive-edition/"
+        },
+        {
+          "id": "121501",
+          "title": "The Last Spell",
+          "url": "https://backloggd.com/games/the-last-spell/"
+        },
+        {
+          "id": "150032",
+          "title": "Berserk Boy",
+          "url": "https://backloggd.com/games/berserk-boy/"
+        },
+        {
+          "id": "7894",
+          "title": "Blood Omen: Legacy of Kain",
+          "url": "https://backloggd.com/games/blood-omen-legacy-of-kain/"
+        },
+        {
+          "id": "9227",
+          "title": "Thief Gold",
+          "url": "https://backloggd.com/games/thief-gold/"
+        },
+        {
+          "id": "6072",
+          "title": "Styx: Master of Shadows",
+          "url": "https://backloggd.com/games/styx-master-of-shadows/"
+        },
+        {
+          "id": "35596",
+          "title": "Star Wars: Galactic Battlegrounds Saga",
+          "url": "https://backloggd.com/games/star-wars-galactic-battlegrounds-saga/"
+        },
+        {
+          "id": "2682",
+          "title": "LEGO Star Wars: The Complete Saga",
+          "url": "https://backloggd.com/games/lego-star-wars-the-complete-saga/"
+        },
+        {
+          "id": "99071",
+          "title": "Hypnospace Outlaw",
+          "url": "https://backloggd.com/games/hypnospace-outlaw/"
+        },
+        {
+          "id": "3823",
+          "title": "Blood Omen 2: Legacy of Kain",
+          "url": "https://backloggd.com/games/blood-omen-2-legacy-of-kain/"
+        },
+        {
+          "id": "7708",
+          "title": "Saints Row: Gat Out of Hell",
+          "url": "https://backloggd.com/games/saints-row-gat-out-of-hell/"
+        },
+        {
+          "id": "10998",
+          "title": "Fate",
+          "url": "https://backloggd.com/games/fate/"
+        },
+        {
+          "id": "1",
+          "title": "Thief II: The Metal Age",
+          "url": "https://backloggd.com/games/thief-ii-the-metal-age/"
+        },
+        {
+          "id": "121588",
+          "title": "Dark Envoy",
+          "url": "https://backloggd.com/games/dark-envoy/"
+        },
+        {
+          "id": "7707",
+          "title": "Saints Row IV: Re-Elected",
+          "url": "https://backloggd.com/games/saints-row-iv-re-elected/"
+        },
+        {
+          "id": "151",
+          "title": "Star Wars: Rebellion",
+          "url": "https://backloggd.com/games/star-wars-rebellion/"
+        },
+        {
+          "id": "118193",
+          "title": "Toem",
+          "url": "https://backloggd.com/games/toem/"
+        },
+        {
+          "id": "826",
+          "title": "Saints Row 2",
+          "url": "https://backloggd.com/games/saints-row-2/"
+        },
+        {
+          "id": "266683",
+          "title": "Tomb Raider I•II•III Remastered",
+          "url": "https://backloggd.com/games/tomb-raider-i-star-ii-star-iii-remastered/"
+        },
+        {
+          "id": "3",
+          "title": "Thief: Deadly Shadows",
+          "url": "https://backloggd.com/games/thief-deadly-shadows/"
+        },
+        {
+          "id": "150",
+          "title": "Star Wars: Jedi Knight - Dark Forces II",
+          "url": "https://backloggd.com/games/star-wars-jedi-knight-dark-forces-ii/"
+        },
+        {
+          "id": "154657",
+          "title": "Thief: Definitive Edition",
+          "url": "https://backloggd.com/games/thief-definitive-edition/"
+        },
+        {
+          "id": "54356",
+          "title": "Sid Meier's Civilization IV: Complete Edition",
+          "url": "https://backloggd.com/games/sid-meiers-civilization-iv-complete-edition/"
+        },
+        {
+          "id": "27359",
+          "title": "Tower of Time",
+          "url": "https://backloggd.com/games/tower-of-time/"
+        },
+        {
+          "id": "10919",
+          "title": "XCOM 2",
+          "url": "https://backloggd.com/games/xcom-2/"
+        },
+        {
+          "id": "33569",
+          "title": "True Fear: Forsaken Souls - Part 1",
+          "url": "https://backloggd.com/games/true-fear-forsaken-souls-part-1/"
+        },
+        {
+          "id": "236437",
+          "title": "Empty Shell",
+          "url": "https://backloggd.com/games/empty-shell/"
+        },
+        {
+          "id": "111276",
+          "title": "True Fear: Forsaken Souls - Part 2",
+          "url": "https://backloggd.com/games/true-fear-forsaken-souls-part-2/"
+        },
+        {
+          "id": "154043",
+          "title": "Hellslave",
+          "url": "https://backloggd.com/games/hellslave/"
+        },
+        {
+          "id": "204356",
+          "title": "Fort Solis",
+          "url": "https://backloggd.com/games/fort-solis/"
+        },
+        {
+          "id": "16493",
+          "title": "Another World: 20th Anniversary Edition",
+          "url": "https://backloggd.com/games/another-world-20th-anniversary-edition/"
+        },
+        {
+          "id": "211623",
+          "title": "Dream Tactics",
+          "url": "https://backloggd.com/games/dream-tactics/"
+        },
+        {
+          "id": "35187",
+          "title": "Gunslugs",
+          "url": "https://backloggd.com/games/gunslugs/"
+        },
+        {
+          "id": "35977",
+          "title": "Gunslugs 2",
+          "url": "https://backloggd.com/games/gunslugs-2/"
+        },
+        {
+          "id": "43120",
+          "title": "Ashworld",
+          "url": "https://backloggd.com/games/ashworld/"
+        },
+        {
+          "id": "154161",
+          "title": "Bō: Path of the Teal Lotus",
+          "url": "https://backloggd.com/games/bo-path-of-the-teal-lotus/"
+        },
+        {
+          "id": "154206",
+          "title": "Brigador: Up-Armored Edition",
+          "url": "https://backloggd.com/games/brigador-up-armored-edition/"
+        },
+        {
+          "id": "114017",
+          "title": "Gunslugs: Rogue Tactics",
+          "url": "https://backloggd.com/games/gunslugs-rogue-tactics/"
+        },
+        {
+          "id": "47157",
+          "title": "Harold Halibut",
+          "url": "https://backloggd.com/games/harold-halibut/"
+        },
+        {
+          "id": "74330",
+          "title": "Elderborn",
+          "url": "https://backloggd.com/games/elderborn/"
+        },
+        {
+          "id": "1956",
+          "title": "Alone in the Dark",
+          "url": "https://backloggd.com/games/alone-in-the-dark/"
+        },
+        {
+          "id": "1957",
+          "title": "Alone in the Dark 2",
+          "url": "https://backloggd.com/games/alone-in-the-dark-2/"
+        },
+        {
+          "id": "1959",
+          "title": "Alone in the Dark 3",
+          "url": "https://backloggd.com/games/alone-in-the-dark-3/"
+        },
+        {
+          "id": "76255",
+          "title": "Ambition: A Minuet in Power",
+          "url": "https://backloggd.com/games/ambition-a-minuet-in-power/"
+        },
+        {
+          "id": "94838",
+          "title": "Meganoid",
+          "url": "https://backloggd.com/games/meganoid--1/"
+        },
+        {
+          "id": "73030",
+          "title": "Captain Blood",
+          "url": "https://backloggd.com/games/captain-blood--2/"
+        },
+        {
+          "id": "107318",
+          "title": "Rebel Galaxy Outlaw",
+          "url": "https://backloggd.com/games/rebel-galaxy-outlaw/"
+        },
+        {
+          "id": "612",
+          "title": "Beneath a Steel Sky",
+          "url": "https://backloggd.com/games/beneath-a-steel-sky/"
+        },
+        {
+          "id": "14450",
+          "title": "Veil of Darkness",
+          "url": "https://backloggd.com/games/veil-of-darkness/"
+        },
+        {
+          "id": "172688",
+          "title": "Mahokenshi - The Samurai Deckbuilder",
+          "url": "https://backloggd.com/games/mahokenshi-the-samurai-deckbuilder/"
+        },
+        {
+          "id": "11719",
+          "title": "Rebel Galaxy",
+          "url": "https://backloggd.com/games/rebel-galaxy/"
+        },
+        {
+          "id": "52118",
+          "title": "XCOM: Enemy Unknown - The Complete Edition",
+          "url": "https://backloggd.com/games/xcom-enemy-unknown-the-complete-edition/"
+        },
+        {
+          "id": "181486",
+          "title": "The Pale Beyond",
+          "url": "https://backloggd.com/games/the-pale-beyond/"
+        },
+        {
+          "id": "103319",
+          "title": "Neo Cab",
+          "url": "https://backloggd.com/games/neo-cab/"
+        },
+        {
+          "id": "14417",
+          "title": "Fantasy General",
+          "url": "https://backloggd.com/games/fantasy-general/"
+        },
+        {
+          "id": "132139",
+          "title": "XCOM: Chimera Squad",
+          "url": "https://backloggd.com/games/xcom-chimera-squad/"
+        },
+        {
+          "id": "127816",
+          "title": "Paradise Killer",
+          "url": "https://backloggd.com/games/paradise-killer/"
+        },
+        {
+          "id": "71957",
+          "title": "Framed Collection",
+          "url": "https://backloggd.com/games/framed-collection/"
+        },
+        {
+          "id": "673",
+          "title": "Doom",
+          "url": "https://backloggd.com/games/doom/"
+        },
+        {
+          "id": "312",
+          "title": "Doom II: Hell on Earth",
+          "url": "https://backloggd.com/games/doom-ii-hell-on-earth/"
+        },
+        {
+          "id": "7351",
+          "title": "Doom",
+          "url": "https://backloggd.com/games/doom--2/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/gog-owned/",
+        "https://backloggd.com/u/Gramotek/list/gog-owned?page=2",
+        "https://backloggd.com/u/Gramotek/list/gog-owned?page=3"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "Epic Games iPad",
+      "url": "https://backloggd.com/u/Gramotek/list/epic-games-ipad/",
+      "count": 8,
+      "captured_at": "2026-10-19T18:49:18.640Z",
+      "games": [
+        {
+          "id": "18918",
+          "title": "Northgard",
+          "url": "https://backloggd.com/games/northgard/"
+        },
+        {
+          "id": "75341",
+          "title": "Wytchwood",
+          "url": "https://backloggd.com/games/wytchwood/"
+        },
+        {
+          "id": "144465",
+          "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+          "url": "https://backloggd.com/games/teenage-mutant-ninja-turtles-shredders-revenge/"
+        },
+        {
+          "id": "153562",
+          "title": "Sophia the Traveler",
+          "url": "https://backloggd.com/games/sophia-the-traveler/"
+        },
+        {
+          "id": "333568",
+          "title": "Pokémon Champions",
+          "url": "https://backloggd.com/games/pokemon-champions/"
+        },
+        {
+          "id": "215098",
+          "title": "The Ouroboros King",
+          "url": "https://backloggd.com/games/the-ouroboros-king/"
+        },
+        {
+          "id": "195096",
+          "title": "Foretales",
+          "url": "https://backloggd.com/games/foretales/"
+        },
+        {
+          "id": "124396",
+          "title": "Down in Bermuda",
+          "url": "https://backloggd.com/games/down-in-bermuda/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/epic-games-ipad/"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "Mam na płycie",
+      "url": "https://backloggd.com/u/Gramotek/list/mam-na-pycie/",
+      "count": 22,
+      "captured_at": "2026-10-19T18:49:19.264Z",
+      "games": [
+        {
+          "id": "228542",
+          "title": "Armored Core VI: Fires of Rubicon",
+          "url": "https://backloggd.com/games/armored-core-vi-fires-of-rubicon/"
+        },
+        {
+          "id": "240009",
+          "title": "Elden Ring: Shadow of the Erdtree",
+          "url": "https://backloggd.com/games/elden-ring-shadow-of-the-erdtree/"
+        },
+        {
+          "id": "204350",
+          "title": "The Last of Us Part I",
+          "url": "https://backloggd.com/games/the-last-of-us-part-i/"
+        },
+        {
+          "id": "72870",
+          "title": "Horizon Zero Dawn: Complete Edition",
+          "url": "https://backloggd.com/games/horizon-zero-dawn-complete-edition/"
+        },
+        {
+          "id": "36926",
+          "title": "Monster Hunter: World",
+          "url": "https://backloggd.com/games/monster-hunter-world/"
+        },
+        {
+          "id": "279661",
+          "title": "Monster Hunter Wilds",
+          "url": "https://backloggd.com/games/monster-hunter-wilds/"
+        },
+        {
+          "id": "134581",
+          "title": "Marvel's Spider-Man: Miles Morales",
+          "url": "https://backloggd.com/games/marvels-spider-man-miles-morales/"
+        },
+        {
+          "id": "281562",
+          "title": "Judgment",
+          "url": "https://backloggd.com/games/judgment--2/"
+        },
+        {
+          "id": "146851",
+          "title": "Lost Judgment",
+          "url": "https://backloggd.com/games/lost-judgment/"
+        },
+        {
+          "id": "191494",
+          "title": "Sifu: Vengeance Edition",
+          "url": "https://backloggd.com/games/sifu-vengeance-edition/"
+        },
+        {
+          "id": "27939",
+          "title": "Kingdom Hearts All-In-One Package",
+          "url": "https://backloggd.com/games/kingdom-hearts-all-in-one-package/"
+        },
+        {
+          "id": "11133",
+          "title": "Dark Souls III",
+          "url": "https://backloggd.com/games/dark-souls-iii/"
+        },
+        {
+          "id": "284920",
+          "title": "Resident Evil 4: Gold Edition",
+          "url": "https://backloggd.com/games/resident-evil-4-gold-edition/"
+        },
+        {
+          "id": "133236",
+          "title": "Final Fantasy VII Rebirth",
+          "url": "https://backloggd.com/games/final-fantasy-vii-rebirth/"
+        },
+        {
+          "id": "117170",
+          "title": "Stellar Blade",
+          "url": "https://backloggd.com/games/stellar-blade/"
+        },
+        {
+          "id": "317407",
+          "title": "Battlefield 6",
+          "url": "https://backloggd.com/games/battlefield-6/"
+        },
+        {
+          "id": "347121",
+          "title": "Final Fantasy Tactics: The Ivalice Chronicles",
+          "url": "https://backloggd.com/games/final-fantasy-tactics-the-ivalice-chronicles/"
+        },
+        {
+          "id": "305152",
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://backloggd.com/games/clair-obscur-expedition-33/"
+        },
+        {
+          "id": "191930",
+          "title": "Pokémon Violet",
+          "url": "https://backloggd.com/games/pokemon-violet/"
+        },
+        {
+          "id": "138225",
+          "title": "Super Mario 3D All-Stars",
+          "url": "https://backloggd.com/games/super-mario-3d-all-stars/"
+        },
+        {
+          "id": "131999",
+          "title": "NieR Replicant ver.1.22474487139...",
+          "url": "https://backloggd.com/games/nier-replicant-ver-dot-1-22474487139-dot-dot-dot/"
+        },
+        {
+          "id": "4843",
+          "title": "Kingdom Come: Deliverance",
+          "url": "https://backloggd.com/games/kingdom-come-deliverance/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/mam-na-pycie/"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "Switch - owned",
+      "url": "https://backloggd.com/u/Gramotek/list/switch---owned/",
+      "count": 103,
+      "captured_at": "2026-10-19T18:49:23.448Z",
+      "games": [
+        {
+          "id": "122238",
+          "title": "Xenoblade Chronicles: Definitive Edition",
+          "url": "https://backloggd.com/games/xenoblade-chronicles-definitive-edition/"
+        },
+        {
+          "id": "26766",
+          "title": "Xenoblade Chronicles 2",
+          "url": "https://backloggd.com/games/xenoblade-chronicles-2/"
+        },
+        {
+          "id": "191411",
+          "title": "Xenoblade Chronicles 3",
+          "url": "https://backloggd.com/games/xenoblade-chronicles-3/"
+        },
+        {
+          "id": "191930",
+          "title": "Pokémon Violet",
+          "url": "https://backloggd.com/games/pokemon-violet/"
+        },
+        {
+          "id": "114283",
+          "title": "Persona 5 Royal",
+          "url": "https://backloggd.com/games/persona-5-royal/"
+        },
+        {
+          "id": "191398",
+          "title": "Mario Strikers: Battle League",
+          "url": "https://backloggd.com/games/mario-strikers-battle-league/"
+        },
+        {
+          "id": "122338",
+          "title": "Ring Fit Adventure",
+          "url": "https://backloggd.com/games/ring-fit-adventure/"
+        },
+        {
+          "id": "191408",
+          "title": "Nintendo Switch Sports",
+          "url": "https://backloggd.com/games/nintendo-switch-sports/"
+        },
+        {
+          "id": "138225",
+          "title": "Super Mario 3D All-Stars",
+          "url": "https://backloggd.com/games/super-mario-3d-all-stars/"
+        },
+        {
+          "id": "26764",
+          "title": "Mario Kart 8 Deluxe",
+          "url": "https://backloggd.com/games/mario-kart-8-deluxe/"
+        },
+        {
+          "id": "152354",
+          "title": "Mario Party Superstars",
+          "url": "https://backloggd.com/games/mario-party-superstars/"
+        },
+        {
+          "id": "90101",
+          "title": "Super Smash Bros. Ultimate",
+          "url": "https://backloggd.com/games/super-smash-bros-ultimate/"
+        },
+        {
+          "id": "216318",
+          "title": "Just Dance 2023 Edition",
+          "url": "https://backloggd.com/games/just-dance-2023-edition/"
+        },
+        {
+          "id": "68353",
+          "title": "Unicorn Overlord",
+          "url": "https://backloggd.com/games/unicorn-overlord--1/"
+        },
+        {
+          "id": "143610",
+          "title": "Triangle Strategy",
+          "url": "https://backloggd.com/games/triangle-strategy/"
+        },
+        {
+          "id": "212584",
+          "title": "Tactics Ogre: Reborn",
+          "url": "https://backloggd.com/games/tactics-ogre-reborn/"
+        },
+        {
+          "id": "26845",
+          "title": "Fire Emblem: Three Houses",
+          "url": "https://backloggd.com/games/fire-emblem-three-houses/"
+        },
+        {
+          "id": "132224",
+          "title": "Fire Emblem: Three Houses - Cindered Shadows",
+          "url": "https://backloggd.com/games/fire-emblem-three-houses-cindered-shadows/"
+        },
+        {
+          "id": "28337",
+          "title": "13 Sentinels: Aegis Rim",
+          "url": "https://backloggd.com/games/13-sentinels-aegis-rim/"
+        },
+        {
+          "id": "94078",
+          "title": "9 Monkeys of Shaolin",
+          "url": "https://backloggd.com/games/9-monkeys-of-shaolin/"
+        },
+        {
+          "id": "132984",
+          "title": "911 Operator: Deluxe Edition",
+          "url": "https://backloggd.com/games/911-operator-deluxe-edition/"
+        },
+        {
+          "id": "266679",
+          "title": "Another Code: Recollection",
+          "url": "https://backloggd.com/games/another-code-recollection/"
+        },
+        {
+          "id": "28006",
+          "title": "Ash of Gods: Redemption",
+          "url": "https://backloggd.com/games/ash-of-gods-redemption/"
+        },
+        {
+          "id": "116390",
+          "title": "Anniversary Collection Arcade Classics",
+          "url": "https://backloggd.com/games/anniversary-collection-arcade-classics/"
+        },
+        {
+          "id": "115283",
+          "title": "Astral Chain",
+          "url": "https://backloggd.com/games/astral-chain/"
+        },
+        {
+          "id": "26820",
+          "title": "Blasphemous",
+          "url": "https://backloggd.com/games/blasphemous/"
+        },
+        {
+          "id": "5973",
+          "title": "Broforce",
+          "url": "https://backloggd.com/games/broforce/"
+        },
+        {
+          "id": "116389",
+          "title": "Contra Anniversary Collection",
+          "url": "https://backloggd.com/games/contra-anniversary-collection/"
+        },
+        {
+          "id": "116138",
+          "title": "Castlevania Anniversary Collection",
+          "url": "https://backloggd.com/games/castlevania-anniversary-collection/"
+        },
+        {
+          "id": "152399",
+          "title": "Danganronpa: Trigger Happy Havoc - Anniversary Edition",
+          "url": "https://backloggd.com/games/danganronpa-trigger-happy-havoc-anniversary-edition/"
+        },
+        {
+          "id": "165206",
+          "title": "Doom",
+          "url": "https://backloggd.com/games/doom--4/"
+        },
+        {
+          "id": "13677",
+          "title": "Downwell",
+          "url": "https://backloggd.com/games/downwell/"
+        },
+        {
+          "id": "266686",
+          "title": "F-Zero 99",
+          "url": "https://backloggd.com/games/f-zero-99/"
+        },
+        {
+          "id": "133175",
+          "title": "Fatum Betula",
+          "url": "https://backloggd.com/games/fatum-betula/"
+        },
+        {
+          "id": "207026",
+          "title": "Final Fantasy VII",
+          "url": "https://backloggd.com/games/final-fantasy-vii--6/"
+        },
+        {
+          "id": "191396",
+          "title": "Fire Emblem Warriors: Three Hopes",
+          "url": "https://backloggd.com/games/fire-emblem-warriors-three-hopes/"
+        },
+        {
+          "id": "87672",
+          "title": "Florence",
+          "url": "https://backloggd.com/games/florence/"
+        },
+        {
+          "id": "113112",
+          "title": "Hades",
+          "url": "https://backloggd.com/games/hades--1/"
+        },
+        {
+          "id": "7342",
+          "title": "Inside",
+          "url": "https://backloggd.com/games/inside/"
+        },
+        {
+          "id": "191407",
+          "title": "Live A Live",
+          "url": "https://backloggd.com/games/live-a-live--1/"
+        },
+        {
+          "id": "139566",
+          "title": "Mind Scanners",
+          "url": "https://backloggd.com/games/mind-scanners/"
+        },
+        {
+          "id": "26970",
+          "title": "Minit",
+          "url": "https://backloggd.com/games/minit/"
+        },
+        {
+          "id": "2272",
+          "title": "No More Heroes",
+          "url": "https://backloggd.com/games/no-more-heroes/"
+        },
+        {
+          "id": "2273",
+          "title": "No More Heroes 2: Desperate Struggle",
+          "url": "https://backloggd.com/games/no-more-heroes-2-desperate-struggle/"
+        },
+        {
+          "id": "113568",
+          "title": "OlliOlli: Switch Stance",
+          "url": "https://backloggd.com/games/olliolli-switch-stance/"
+        },
+        {
+          "id": "18857",
+          "title": "Ruiner",
+          "url": "https://backloggd.com/games/ruiner/"
+        },
+        {
+          "id": "107237",
+          "title": "Reigns: Game of Thrones",
+          "url": "https://backloggd.com/games/reigns-game-of-thrones/"
+        },
+        {
+          "id": "97690",
+          "title": "Paratopic",
+          "url": "https://backloggd.com/games/paratopic/"
+        },
+        {
+          "id": "145515",
+          "title": "Pac-Man 99",
+          "url": "https://backloggd.com/games/pac-man-99/"
+        },
+        {
+          "id": "2049",
+          "title": "Slender: The Arrival",
+          "url": "https://backloggd.com/games/slender-the-arrival/"
+        },
+        {
+          "id": "135913",
+          "title": "Shin Megami Tensei III: Nocturne - HD Remaster",
+          "url": "https://backloggd.com/games/shin-megami-tensei-iii-nocturne-hd-remaster/"
+        },
+        {
+          "id": "107188",
+          "title": "Ultracore",
+          "url": "https://backloggd.com/games/ultracore/"
+        },
+        {
+          "id": "111817",
+          "title": "This War of Mine: Complete Edition",
+          "url": "https://backloggd.com/games/this-war-of-mine-complete-edition/"
+        },
+        {
+          "id": "96202",
+          "title": "The Way Remastered",
+          "url": "https://backloggd.com/games/the-way-remastered/"
+        },
+        {
+          "id": "159248",
+          "title": "The Ramp",
+          "url": "https://backloggd.com/games/the-ramp/"
+        },
+        {
+          "id": "87499",
+          "title": "The Missing: J.J. Macfield and the Island of Memories",
+          "url": "https://backloggd.com/games/the-missing-jj-macfield-and-the-island-of-memories/"
+        },
+        {
+          "id": "115284",
+          "title": "The Legend of Zelda: Link's Awakening",
+          "url": "https://backloggd.com/games/the-legend-of-zelda-links-awakening--1/"
+        },
+        {
+          "id": "7346",
+          "title": "The Legend of Zelda: Breath of the Wild",
+          "url": "https://backloggd.com/games/the-legend-of-zelda-breath-of-the-wild/"
+        },
+        {
+          "id": "115282",
+          "title": "Tetris 99",
+          "url": "https://backloggd.com/games/tetris-99/"
+        },
+        {
+          "id": "18967",
+          "title": "Valkyria Chronicles Remastered",
+          "url": "https://backloggd.com/games/valkyria-chronicles-remastered/"
+        },
+        {
+          "id": "75848",
+          "title": "Valkyria Chronicles 4",
+          "url": "https://backloggd.com/games/valkyria-chronicles-4/"
+        },
+        {
+          "id": "78497",
+          "title": "Catherine: Full Body",
+          "url": "https://backloggd.com/games/catherine-full-body/"
+        },
+        {
+          "id": "19520",
+          "title": "Far: Lone Sails",
+          "url": "https://backloggd.com/games/far-lone-sails/"
+        },
+        {
+          "id": "104971",
+          "title": "AI: The Somnium Files",
+          "url": "https://backloggd.com/games/ai-the-somnium-files/"
+        },
+        {
+          "id": "122373",
+          "title": "Arrest of a Stone Buddha",
+          "url": "https://backloggd.com/games/arrest-of-a-stone-buddha/"
+        },
+        {
+          "id": "97932",
+          "title": "Banner of the Maid",
+          "url": "https://backloggd.com/games/banner-of-the-maid/"
+        },
+        {
+          "id": "55080",
+          "title": "Donut County",
+          "url": "https://backloggd.com/games/donut-county/"
+        },
+        {
+          "id": "55771",
+          "title": "Fell Seal: Arbiter's Mark",
+          "url": "https://backloggd.com/games/fell-seal-arbiters-mark/"
+        },
+        {
+          "id": "217550",
+          "title": "Fire Emblem Engage",
+          "url": "https://backloggd.com/games/fire-emblem-engage/"
+        },
+        {
+          "id": "71957",
+          "title": "Framed Collection",
+          "url": "https://backloggd.com/games/framed-collection/"
+        },
+        {
+          "id": "1906",
+          "title": "Gone Home",
+          "url": "https://backloggd.com/games/gone-home/"
+        },
+        {
+          "id": "14593",
+          "title": "Hollow Knight",
+          "url": "https://backloggd.com/games/hollow-knight/"
+        },
+        {
+          "id": "19728",
+          "title": "Huntdown",
+          "url": "https://backloggd.com/games/huntdown/"
+        },
+        {
+          "id": "27117",
+          "title": "Into the Breach",
+          "url": "https://backloggd.com/games/into-the-breach/"
+        },
+        {
+          "id": "171757",
+          "title": "Kaiju Wars",
+          "url": "https://backloggd.com/games/kaiju-wars/"
+        },
+        {
+          "id": "24881",
+          "title": "Kingdom: New Lands",
+          "url": "https://backloggd.com/games/kingdom-new-lands/"
+        },
+        {
+          "id": "6655",
+          "title": "Mother Russia Bleeds",
+          "url": "https://backloggd.com/games/mother-russia-bleeds/"
+        },
+        {
+          "id": "80185",
+          "title": "Sega Genesis Classics",
+          "url": "https://backloggd.com/games/sega-genesis-classics/"
+        },
+        {
+          "id": "75096",
+          "title": "Slipstream",
+          "url": "https://backloggd.com/games/slipstream/"
+        },
+        {
+          "id": "1871",
+          "title": "The Walking Dead",
+          "url": "https://backloggd.com/games/the-walking-dead/"
+        },
+        {
+          "id": "27441",
+          "title": "Wargroove",
+          "url": "https://backloggd.com/games/wargroove/"
+        },
+        {
+          "id": "134952",
+          "title": "Wolfstride",
+          "url": "https://backloggd.com/games/wolfstride/"
+        },
+        {
+          "id": "122279",
+          "title": "Kowloon High-School Chronicle",
+          "url": "https://backloggd.com/games/kowloon-high-school-chronicle/"
+        },
+        {
+          "id": "152360",
+          "title": "Advance Wars 1+2: Re-Boot Camp",
+          "url": "https://backloggd.com/games/advance-wars-1-plus-2-re-boot-camp/"
+        },
+        {
+          "id": "138244",
+          "title": "Midnight Fight Express",
+          "url": "https://backloggd.com/games/midnight-fight-express/"
+        },
+        {
+          "id": "15276",
+          "title": "Retro City Rampage DX",
+          "url": "https://backloggd.com/games/retro-city-rampage-dx/"
+        },
+        {
+          "id": "147215",
+          "title": "Dark Deity",
+          "url": "https://backloggd.com/games/dark-deity/"
+        },
+        {
+          "id": "119249",
+          "title": "Roguebook",
+          "url": "https://backloggd.com/games/roguebook/"
+        },
+        {
+          "id": "52836",
+          "title": "Darkest Dungeon: Ancestral Edition",
+          "url": "https://backloggd.com/games/darkest-dungeon-ancestral-edition/"
+        },
+        {
+          "id": "103484",
+          "title": "Akane",
+          "url": "https://backloggd.com/games/akane/"
+        },
+        {
+          "id": "35132",
+          "title": "LiEat",
+          "url": "https://backloggd.com/games/lieat/"
+        },
+        {
+          "id": "135381",
+          "title": "Pokémon Unite",
+          "url": "https://backloggd.com/games/pokemon-unite/"
+        },
+        {
+          "id": "333568",
+          "title": "Pokémon Champions",
+          "url": "https://backloggd.com/games/pokemon-champions/"
+        },
+        {
+          "id": "119577",
+          "title": "The House in Fata Morgana: Dreams of the Revenants Edition",
+          "url": "https://backloggd.com/games/the-house-in-fata-morgana-dreams-of-the-revenants-edition/"
+        },
+        {
+          "id": "5060",
+          "title": "Deponia",
+          "url": "https://backloggd.com/games/deponia/"
+        },
+        {
+          "id": "5062",
+          "title": "Chaos on Deponia",
+          "url": "https://backloggd.com/games/chaos-on-deponia/"
+        },
+        {
+          "id": "5064",
+          "title": "Goodbye Deponia",
+          "url": "https://backloggd.com/games/goodbye-deponia/"
+        },
+        {
+          "id": "19300",
+          "title": "Deponia Doomsday",
+          "url": "https://backloggd.com/games/deponia-doomsday/"
+        },
+        {
+          "id": "213505",
+          "title": "Cardfight!! Vanguard: Dear Days",
+          "url": "https://backloggd.com/games/cardfight-vanguard-dear-days/"
+        },
+        {
+          "id": "102087",
+          "title": "Leisure Suit Larry: Wet Dreams Don't Dry",
+          "url": "https://backloggd.com/games/leisure-suit-larry-wet-dreams-dont-dry/"
+        },
+        {
+          "id": "138756",
+          "title": "Leisure Suit Larry: Wet Dreams Dry Twice",
+          "url": "https://backloggd.com/games/leisure-suit-larry-wet-dreams-dry-twice/"
+        },
+        {
+          "id": "191400",
+          "title": "Front Mission 1st: Remake",
+          "url": "https://backloggd.com/games/front-mission-1st-remake/"
+        },
+        {
+          "id": "338067",
+          "title": "Mario Kart World",
+          "url": "https://backloggd.com/games/mario-kart-world/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/switch---owned/",
+        "https://backloggd.com/u/Gramotek/list/switch---owned?page=2"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "Legacy Games",
+      "url": "https://backloggd.com/u/Gramotek/list/legacy-games/",
+      "count": 1,
+      "captured_at": "2026-10-19T18:49:24.993Z",
+      "games": [
+        {
+          "id": "148945",
+          "title": "Please, Touch the Artwork",
+          "url": "https://backloggd.com/games/please-touch-the-artwork/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/legacy-games/"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "Other shops - owned",
+      "url": "https://backloggd.com/u/Gramotek/list/other-shops---owned/",
+      "count": 26,
+      "captured_at": "2026-10-19T18:49:31.090Z",
+      "games": [
+        {
+          "id": "1970",
+          "title": "Assassin's Creed IV Black Flag",
+          "url": "https://backloggd.com/games/assassins-creed-iv-black-flag/"
+        },
+        {
+          "id": "28540",
+          "title": "Assassin's Creed Origins",
+          "url": "https://backloggd.com/games/assassins-creed-origins/"
+        },
+        {
+          "id": "8263",
+          "title": "Assassin's Creed Syndicate",
+          "url": "https://backloggd.com/games/assassins-creed-syndicate/"
+        },
+        {
+          "id": "14903",
+          "title": "Assassin's Creed Chronicles: Russia",
+          "url": "https://backloggd.com/games/assassins-creed-chronicles-russia/"
+        },
+        {
+          "id": "6801",
+          "title": "Far Cry 4",
+          "url": "https://backloggd.com/games/far-cry-4/"
+        },
+        {
+          "id": "1121",
+          "title": "Watch Dogs",
+          "url": "https://backloggd.com/games/watch-dogs/"
+        },
+        {
+          "id": "1305",
+          "title": "Tom Clancy's Splinter Cell: Blacklist",
+          "url": "https://backloggd.com/games/tom-clancy-s-splinter-cell-blacklist/"
+        },
+        {
+          "id": "941",
+          "title": "World in Conflict",
+          "url": "https://backloggd.com/games/world-in-conflict/"
+        },
+        {
+          "id": "2437",
+          "title": "Prince of Persia: The Two Thrones",
+          "url": "https://backloggd.com/games/prince-of-persia-the-two-thrones/"
+        },
+        {
+          "id": "836",
+          "title": "Prince of Persia: The Sands of Time",
+          "url": "https://backloggd.com/games/prince-of-persia-the-sands-of-time/"
+        },
+        {
+          "id": "1341",
+          "title": "Beyond Good & Evil",
+          "url": "https://backloggd.com/games/beyond-good-evil/"
+        },
+        {
+          "id": "3171",
+          "title": "The Saboteur",
+          "url": "https://backloggd.com/games/the-saboteur/"
+        },
+        {
+          "id": "3193",
+          "title": "Need for Speed: Most Wanted",
+          "url": "https://backloggd.com/games/need-for-speed-most-wanted-53b9fef3-adb4-41a0-8ca0-ffcbb0060467/"
+        },
+        {
+          "id": "139346",
+          "title": "Need for Speed: Hot Pursuit - Remastered",
+          "url": "https://backloggd.com/games/need-for-speed-hot-pursuit-remastered/"
+        },
+        {
+          "id": "140839",
+          "title": "Mass Effect Legendary Edition",
+          "url": "https://backloggd.com/games/mass-effect-legendary-edition/"
+        },
+        {
+          "id": "119161",
+          "title": "Need for Speed: Heat",
+          "url": "https://backloggd.com/games/need-for-speed-heat/"
+        },
+        {
+          "id": "74701",
+          "title": "Star Wars Jedi: Fallen Order",
+          "url": "https://backloggd.com/games/star-wars-jedi-fallen-order/"
+        },
+        {
+          "id": "159116",
+          "title": "Grid Legends",
+          "url": "https://backloggd.com/games/grid-legends/"
+        },
+        {
+          "id": "10",
+          "title": "Jade Empire: Special Edition",
+          "url": "https://backloggd.com/games/jade-empire-special-edition/"
+        },
+        {
+          "id": "38",
+          "title": "Dead Space 2",
+          "url": "https://backloggd.com/games/dead-space-2/"
+        },
+        {
+          "id": "76",
+          "title": "Dragon Age: Origins",
+          "url": "https://backloggd.com/games/dragon-age-origins/"
+        },
+        {
+          "id": "9192",
+          "title": "Wolfenstein: The Old Blood",
+          "url": "https://backloggd.com/games/wolfenstein-the-old-blood/"
+        },
+        {
+          "id": "103301",
+          "title": "Wolfenstein: Youngblood",
+          "url": "https://backloggd.com/games/wolfenstein-youngblood/"
+        },
+        {
+          "id": "217623",
+          "title": "Like a Dragon: Infinite Wealth",
+          "url": "https://backloggd.com/games/like-a-dragon-infinite-wealth/"
+        },
+        {
+          "id": "36952",
+          "title": "Wolfenstein II: The New Colossus",
+          "url": "https://backloggd.com/games/wolfenstein-ii-the-new-colossus/"
+        },
+        {
+          "id": "25683",
+          "title": "StarCraft: Remastered",
+          "url": "https://backloggd.com/games/starcraft-remastered/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/other-shops---owned/"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "PS5 Owned",
+      "url": "https://backloggd.com/u/Gramotek/list/ps5-owned-/",
+      "count": 50,
+      "captured_at": "2026-10-19T18:49:31.853Z",
+      "games": [
+        {
+          "id": "31551",
+          "title": "Final Fantasy XVI",
+          "url": "https://backloggd.com/games/final-fantasy-xvi/"
+        },
+        {
+          "id": "279657",
+          "title": "Final Fantasy XVI: Echoes of the Fallen",
+          "url": "https://backloggd.com/games/final-fantasy-xvi-echoes-of-the-fallen/"
+        },
+        {
+          "id": "279658",
+          "title": "Final Fantasy XVI: The Rising Tide",
+          "url": "https://backloggd.com/games/final-fantasy-xvi-the-rising-tide/"
+        },
+        {
+          "id": "19965",
+          "title": "Tomb Raider: Definitive Edition",
+          "url": "https://backloggd.com/games/tomb-raider-definitive-edition/"
+        },
+        {
+          "id": "23331",
+          "title": "Rise of the Tomb Raider: 20 Year Celebration",
+          "url": "https://backloggd.com/games/rise-of-the-tomb-raider-20-year-celebration/"
+        },
+        {
+          "id": "123051",
+          "title": "Shadow of the Tomb Raider: Definitive Edition",
+          "url": "https://backloggd.com/games/shadow-of-the-tomb-raider-definitive-edition/"
+        },
+        {
+          "id": "3218",
+          "title": "Vanquish",
+          "url": "https://backloggd.com/games/vanquish/"
+        },
+        {
+          "id": "4",
+          "title": "Thief",
+          "url": "https://backloggd.com/games/thief/"
+        },
+        {
+          "id": "20228",
+          "title": "Sleeping Dogs: Definitive Edition",
+          "url": "https://backloggd.com/games/sleeping-dogs-definitive-edition/"
+        },
+        {
+          "id": "4786",
+          "title": "The Evil Within",
+          "url": "https://backloggd.com/games/the-evil-within/"
+        },
+        {
+          "id": "132165",
+          "title": "Observer: System Redux",
+          "url": "https://backloggd.com/games/observer-system-redux/"
+        },
+        {
+          "id": "250616",
+          "title": "Helldivers 2",
+          "url": "https://backloggd.com/games/helldivers-2/"
+        },
+        {
+          "id": "228542",
+          "title": "Armored Core VI: Fires of Rubicon",
+          "url": "https://backloggd.com/games/armored-core-vi-fires-of-rubicon/"
+        },
+        {
+          "id": "134597",
+          "title": "Astro's Playroom",
+          "url": "https://backloggd.com/games/astros-playroom/"
+        },
+        {
+          "id": "36911",
+          "title": "Dragon Ball FighterZ",
+          "url": "https://backloggd.com/games/dragon-ball-fighterz/"
+        },
+        {
+          "id": "119133",
+          "title": "Elden Ring",
+          "url": "https://backloggd.com/games/elden-ring/"
+        },
+        {
+          "id": "240009",
+          "title": "Elden Ring: Shadow of the Erdtree",
+          "url": "https://backloggd.com/games/elden-ring-shadow-of-the-erdtree/"
+        },
+        {
+          "id": "16300",
+          "title": "Dragon's Dogma: Dark Arisen",
+          "url": "https://backloggd.com/games/dragons-dogma-dark-arisen/"
+        },
+        {
+          "id": "9498",
+          "title": "Deus Ex: Mankind Divided",
+          "url": "https://backloggd.com/games/deus-ex-mankind-divided/"
+        },
+        {
+          "id": "153054",
+          "title": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles",
+          "url": "https://backloggd.com/games/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles/"
+        },
+        {
+          "id": "7291",
+          "title": "Hunt: Showdown 1896",
+          "url": "https://backloggd.com/games/hunt-showdown-1896/"
+        },
+        {
+          "id": "204350",
+          "title": "The Last of Us Part I",
+          "url": "https://backloggd.com/games/the-last-of-us-part-i/"
+        },
+        {
+          "id": "153700",
+          "title": "Ghost of Tsushima: Director's Cut",
+          "url": "https://backloggd.com/games/ghost-of-tsushima-directors-cut/"
+        },
+        {
+          "id": "154772",
+          "title": "Ghost of Tsushima: Iki Island",
+          "url": "https://backloggd.com/games/ghost-of-tsushima-iki-island/"
+        },
+        {
+          "id": "144024",
+          "title": "Final Fantasy VII Remake Intergrade",
+          "url": "https://backloggd.com/games/final-fantasy-vii-remake-intergrade/"
+        },
+        {
+          "id": "186309",
+          "title": "Horizon Call of the Mountain",
+          "url": "https://backloggd.com/games/horizon-call-of-the-mountain/"
+        },
+        {
+          "id": "72870",
+          "title": "Horizon Zero Dawn: Complete Edition",
+          "url": "https://backloggd.com/games/horizon-zero-dawn-complete-edition/"
+        },
+        {
+          "id": "25637",
+          "title": "Metal Gear Solid V: The Definitive Experience",
+          "url": "https://backloggd.com/games/metal-gear-solid-v-the-definitive-experience/"
+        },
+        {
+          "id": "36926",
+          "title": "Monster Hunter: World",
+          "url": "https://backloggd.com/games/monster-hunter-world/"
+        },
+        {
+          "id": "138949",
+          "title": "Marvel's Spider-Man Remastered",
+          "url": "https://backloggd.com/games/marvels-spider-man-remastered/"
+        },
+        {
+          "id": "134581",
+          "title": "Marvel's Spider-Man: Miles Morales",
+          "url": "https://backloggd.com/games/marvels-spider-man-miles-morales/"
+        },
+        {
+          "id": "109274",
+          "title": "Judgment",
+          "url": "https://backloggd.com/games/judgment/"
+        },
+        {
+          "id": "146851",
+          "title": "Lost Judgment",
+          "url": "https://backloggd.com/games/lost-judgment/"
+        },
+        {
+          "id": "191494",
+          "title": "Sifu: Vengeance Edition",
+          "url": "https://backloggd.com/games/sifu-vengeance-edition/"
+        },
+        {
+          "id": "27939",
+          "title": "Kingdom Hearts All-In-One Package",
+          "url": "https://backloggd.com/games/kingdom-hearts-all-in-one-package/"
+        },
+        {
+          "id": "119277",
+          "title": "Genshin Impact",
+          "url": "https://backloggd.com/games/genshin-impact/"
+        },
+        {
+          "id": "178282",
+          "title": "Honkai: Star Rail",
+          "url": "https://backloggd.com/games/honkai-star-rail/"
+        },
+        {
+          "id": "104971",
+          "title": "AI: The Somnium Files",
+          "url": "https://backloggd.com/games/ai-the-somnium-files/"
+        },
+        {
+          "id": "11133",
+          "title": "Dark Souls III",
+          "url": "https://backloggd.com/games/dark-souls-iii/"
+        },
+        {
+          "id": "284920",
+          "title": "Resident Evil 4: Gold Edition",
+          "url": "https://backloggd.com/games/resident-evil-4-gold-edition/"
+        },
+        {
+          "id": "133236",
+          "title": "Final Fantasy VII Rebirth",
+          "url": "https://backloggd.com/games/final-fantasy-vii-rebirth/"
+        },
+        {
+          "id": "117170",
+          "title": "Stellar Blade",
+          "url": "https://backloggd.com/games/stellar-blade/"
+        },
+        {
+          "id": "200551",
+          "title": "Zenless Zone Zero",
+          "url": "https://backloggd.com/games/zenless-zone-zero/"
+        },
+        {
+          "id": "279661",
+          "title": "Monster Hunter Wilds",
+          "url": "https://backloggd.com/games/monster-hunter-wilds/"
+        },
+        {
+          "id": "19927",
+          "title": "Bladestorm: Nightmare",
+          "url": "https://backloggd.com/games/bladestorm-nightmare/"
+        },
+        {
+          "id": "185258",
+          "title": "ARC Raiders",
+          "url": "https://backloggd.com/games/arc-raiders/"
+        },
+        {
+          "id": "317407",
+          "title": "Battlefield 6",
+          "url": "https://backloggd.com/games/battlefield-6/"
+        },
+        {
+          "id": "325591",
+          "title": "Elden Ring Nightreign",
+          "url": "https://backloggd.com/games/elden-ring-nightreign/"
+        },
+        {
+          "id": "347121",
+          "title": "Final Fantasy Tactics: The Ivalice Chronicles",
+          "url": "https://backloggd.com/games/final-fantasy-tactics-the-ivalice-chronicles/"
+        },
+        {
+          "id": "305152",
+          "title": "Clair Obscur: Expedition 33",
+          "url": "https://backloggd.com/games/clair-obscur-expedition-33/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/ps5-owned-/"
+      ],
+      "count_match": true
+    },
+    {
+      "title": "Iphone - owned",
+      "url": "https://backloggd.com/u/Gramotek/list/iphone---owned/",
+      "count": 14,
+      "captured_at": "2026-10-19T18:49:32.591Z",
+      "games": [
+        {
+          "id": "102865",
+          "title": "Professor Layton and the Curious Village HD for Mobile",
+          "url": "https://backloggd.com/games/professor-layton-and-the-curious-village-hd-for-mobile/"
+        },
+        {
+          "id": "212438",
+          "title": "Sword of Convallaria: For This World of Peace",
+          "url": "https://backloggd.com/games/sword-of-convallaria-for-this-world-of-peace/"
+        },
+        {
+          "id": "123395",
+          "title": "Arknights",
+          "url": "https://backloggd.com/games/arknights/"
+        },
+        {
+          "id": "288324",
+          "title": "Pokémon Trading Card Game Pocket",
+          "url": "https://backloggd.com/games/pokemon-trading-card-game-pocket/"
+        },
+        {
+          "id": "171816",
+          "title": "Pokémon Trading Card Game Live",
+          "url": "https://backloggd.com/games/pokemon-trading-card-game-live/"
+        },
+        {
+          "id": "26841",
+          "title": "Fire Emblem Heroes",
+          "url": "https://backloggd.com/games/fire-emblem-heroes/"
+        },
+        {
+          "id": "174844",
+          "title": "Girls' Frontline 2: Exilium",
+          "url": "https://backloggd.com/games/girls-frontline-2-exilium/"
+        },
+        {
+          "id": "119277",
+          "title": "Genshin Impact",
+          "url": "https://backloggd.com/games/genshin-impact/"
+        },
+        {
+          "id": "178282",
+          "title": "Honkai: Star Rail",
+          "url": "https://backloggd.com/games/honkai-star-rail/"
+        },
+        {
+          "id": "200551",
+          "title": "Zenless Zone Zero",
+          "url": "https://backloggd.com/games/zenless-zone-zero/"
+        },
+        {
+          "id": "202956",
+          "title": "Wuthering Waves",
+          "url": "https://backloggd.com/games/wuthering-waves/"
+        },
+        {
+          "id": "121612",
+          "title": "The World Ends with You: Solo Remix",
+          "url": "https://backloggd.com/games/the-world-ends-with-you-solo-remix/"
+        },
+        {
+          "id": "132185",
+          "title": "Punishing: Gray Raven",
+          "url": "https://backloggd.com/games/punishing-gray-raven/"
+        },
+        {
+          "id": "57019",
+          "title": "Shin Megami Tensei: Liberation Dx2",
+          "url": "https://backloggd.com/games/shin-megami-tensei-liberation-dx2/"
+        }
+      ],
+      "pages": [
+        "https://backloggd.com/u/Gramotek/list/iphone---owned/"
+      ],
+      "count_match": true
+    }
+  ]
+}

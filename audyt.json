@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-19",
+  "lists": 12,
+  "occurrences": 1154,
+  "unique_games": 1031,
+  "games_on_multiple_lists": 113,
+  "duplicate_urls": 0,
+  "all_source_counts_match": true,
+  "list_counts": {
+    "Amazon Games owned": 38,
+    "Epic Games Owned": 351,
+    "PlayStation Plus Essential": 136,
+    "Steam owned": 186,
+    "GoG owned": 219,
+    "Epic Games iPad": 8,
+    "Mam na płycie": 22,
+    "Switch - owned": 103,
+    "Legacy Games": 1,
+    "Other shops - owned": 26,
+    "PS5 Owned": 50,
+    "Iphone - owned": 14
+  }
+}
