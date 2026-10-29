@@ -1,16 +1,19 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-29",
   "counts": {
-    "date": "2026-10-19",
+    "date": "2026-10-29",
     "lists": 12,
-    "occurrences": 1154,
-    "unique_games": 1031,
+    "occurrences": 1155,
+    "unique_games": 1032,
     "games_on_multiple_lists": 113,
     "duplicate_urls": 0,
     "all_source_counts_match": true,
+    "source_date": "2026-10-19",
+    "source_occurrences": 1154,
+    "manual_assignments": 1,
     "list_counts": {
       "Amazon Games owned": 38,
-      "Epic Games Owned": 351,
+      "Epic Games Owned": 352,
       "PlayStation Plus Essential": 136,
       "Steam owned": 186,
       "GoG owned": 219,
@@ -29,24 +32,24 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "audyt.json": {
-      "bytes": 551,
-      "sha256": "eb8e4d65758bc8b0936cb4601b5ed855aa7e8b05c607d4fc13d04fe651472c5d"
+      "bytes": 642,
+      "sha256": "5dc16fc1b2f069ae6e4b7e178cd28d789d6b83befc5e30f3be91f4b0ca541d81"
     },
     "dane.json": {
-      "bytes": 438680,
-      "sha256": "fbd0c50ec813a2b993e27754452a7e369e0d09aa7260483610524fdf3613fbd2"
+      "bytes": 439536,
+      "sha256": "2585302646d5cfa091961c2c1d0560f5e638ce8c279820aa2b33fedd02d37b6e"
     },
     "index.html": {
-      "bytes": 293291,
-      "sha256": "13710f4e6cebf563e8468eaca9356f71e17e0c9b6b8d59500296c903f9bf9166"
+      "bytes": 294139,
+      "sha256": "d76628484471154e1aa8600c6301f3dfd83c65b2ed2ff00d5d084b3fcd0cf76e"
     },
     "README.md": {
-      "bytes": 1174,
-      "sha256": "5759699b39299c80156a7aba63a95a618fc9125e9186673218855a7a2c0b3123"
+      "bytes": 1322,
+      "sha256": "84b63c3cf5629c704870830422a49af7e2fbb1a68e70ebd1e2dff7d94dadb339"
     },
     "snapshot-list.json": {
-      "bytes": 193877,
-      "sha256": "6e3b1b1acee92caf4950dc5b8e917dedb30899083637488793271131749c56c1"
+      "bytes": 194344,
+      "sha256": "7828a75434b76862ee593a2e92f82f8f2b3dbae47c1d52d6139881430685411b"
     }
   }
 }

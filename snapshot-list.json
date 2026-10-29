@@ -1,5 +1,6 @@
 {
   "date": "2026-10-19",
+  "updated_at": "2026-10-29",
   "profile": "Gramotek",
   "lists": [
     {
@@ -5923,6 +5924,17 @@
         "https://backloggd.com/u/Gramotek/list/iphone---owned/"
       ],
       "count_match": true
+    }
+  ],
+  "manual_additions": [
+    {
+      "title": "Ad Infinitum",
+      "year": 2023,
+      "url": "https://backloggd.com/games/ad-infinitum--1/",
+      "list": "Epic Games Owned",
+      "added_at": "2026-10-29",
+      "origin": "user_request",
+      "note": "Ręczne przypisanie w atlasie zgodnie ze zleceniem użytkownika; nie oznacza zmiany listy w serwisie Backloggd. Wpis gry z 2023 roku, nie tytułu C64 z 1984."
     }
   ]
 }
