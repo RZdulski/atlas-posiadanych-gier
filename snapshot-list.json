@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at": "2026-10-29",
+  "updated_at": "2026-11-05",
   "profile": "Gramotek",
   "lists": [
     {
@@ -5935,6 +5935,24 @@
       "added_at": "2026-10-29",
       "origin": "user_request",
       "note": "Ręczne przypisanie w atlasie zgodnie ze zleceniem użytkownika; nie oznacza zmiany listy w serwisie Backloggd. Wpis gry z 2023 roku, nie tytułu C64 z 1984."
+    },
+    {
+      "title": "WRC Generations",
+      "year": 2022,
+      "url": "https://backloggd.com/games/wrc-generations/",
+      "list": "Epic Games Owned",
+      "added_at": "2026-11-05",
+      "origin": "user_request",
+      "note": "Ręczne przypisanie w atlasie zgodnie ze zleceniem użytkownika; nie oznacza zmiany listy w serwisie Backloggd."
+    },
+    {
+      "title": "Squirrel with a Gun",
+      "year": 2024,
+      "url": "https://backloggd.com/games/squirrel-with-a-gun/",
+      "list": "Amazon Games owned",
+      "added_at": "2026-11-05",
+      "origin": "user_request",
+      "note": "Ręczne przypisanie w atlasie zgodnie ze zleceniem użytkownika; nie oznacza zmiany listy w serwisie Backloggd."
     }
   ]
 }

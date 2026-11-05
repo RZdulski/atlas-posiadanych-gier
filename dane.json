@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-11-05",
   "source_date": "2026-10-19",
   "profile": "Gramotek",
   "profile_url": "https://backloggd.com/u/Gramotek/",
@@ -8,17 +8,19 @@
       "id": "lista-01",
       "title": "Amazon Games owned",
       "url": "https://backloggd.com/u/Gramotek/list/amazon-games-owned/",
-      "count": 38,
-      "captured_at": "2026-10-19T18:48:49.439Z"
+      "count": 39,
+      "captured_at": "2026-10-19T18:48:49.439Z",
+      "source_count": 38,
+      "manual_count": 1
     },
     {
       "id": "lista-02",
       "title": "Epic Games Owned",
       "url": "https://backloggd.com/u/Gramotek/list/epic-games-owned/",
-      "count": 352,
+      "count": 353,
       "captured_at": "2026-10-19T18:48:54.784Z",
       "source_count": 351,
-      "manual_count": 1
+      "manual_count": 2
     },
     {
       "id": "lista-03",
@@ -12588,6 +12590,25 @@
       ]
     },
     {
+      "title": "Squirrel with a Gun",
+      "url": "https://backloggd.com/games/squirrel-with-a-gun/",
+      "lists": [
+        "lista-01"
+      ],
+      "sources": [
+        {
+          "list_id": "lista-01",
+          "title": "Amazon Games owned",
+          "url": "https://backloggd.com/u/Gramotek/list/amazon-games-owned/",
+          "origin": "user_request",
+          "added_at": "2026-11-05",
+          "note": "Ręczne przypisanie w atlasie zgodnie ze zleceniem użytkownika; nie oznacza zmiany listy w serwisie Backloggd."
+        }
+      ],
+      "year": 2024,
+      "manual_added_at": "2026-11-05"
+    },
+    {
       "title": "Star Stuff",
       "url": "https://backloggd.com/games/star-stuff/",
       "lists": [
@@ -16109,6 +16130,25 @@
       ]
     },
     {
+      "title": "WRC Generations",
+      "url": "https://backloggd.com/games/wrc-generations/",
+      "lists": [
+        "lista-02"
+      ],
+      "sources": [
+        {
+          "list_id": "lista-02",
+          "title": "Epic Games Owned",
+          "url": "https://backloggd.com/u/Gramotek/list/epic-games-owned/",
+          "origin": "user_request",
+          "added_at": "2026-11-05",
+          "note": "Ręczne przypisanie w atlasie zgodnie ze zleceniem użytkownika; nie oznacza zmiany listy w serwisie Backloggd."
+        }
+      ],
+      "year": 2022,
+      "manual_added_at": "2026-11-05"
+    },
+    {
       "title": "Wuchang: Fallen Feathers",
       "url": "https://backloggd.com/games/wuchang-fallen-feathers/",
       "lists": [
@@ -16439,19 +16479,19 @@
     }
   ],
   "audit": {
-    "date": "2026-10-29",
+    "date": "2026-11-05",
     "lists": 12,
-    "occurrences": 1155,
-    "unique_games": 1032,
+    "occurrences": 1157,
+    "unique_games": 1034,
     "games_on_multiple_lists": 113,
     "duplicate_urls": 0,
     "all_source_counts_match": true,
     "source_date": "2026-10-19",
     "source_occurrences": 1154,
-    "manual_assignments": 1,
+    "manual_assignments": 3,
     "list_counts": {
-      "Amazon Games owned": 38,
-      "Epic Games Owned": 352,
+      "Amazon Games owned": 39,
+      "Epic Games Owned": 353,
       "PlayStation Plus Essential": 136,
       "Steam owned": 186,
       "GoG owned": 219,
