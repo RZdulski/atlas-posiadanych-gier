@@ -1,6 +1,6 @@
 # Biblioteka Gramotek — atlas posiadanych gier
 
-Aktualizacja atlasu: 2026-11-05. Odczyt list źródłowych: 2026-10-19. 1034 unikalnych wpisów Backloggd z 12 wskazanych list; 1157 przypisań do list, w tym 3 ręcznych dodatków użytkownika.
+Aktualizacja atlasu: 2026-11-12. Odczyt list źródłowych: 2026-10-19. 1035 unikalnych wpisów Backloggd z 12 wskazanych list; 1158 przypisań do list, w tym 4 ręcznych dodatków użytkownika.
 
 - [Atlas z wyszukiwarką i filtrami](https://rzdulski.github.io/atlas-posiadanych-gier/)
 - [Dane JSON](dane.json)

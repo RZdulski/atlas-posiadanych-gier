@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-12",
   "source_date": "2026-10-19",
   "profile": "Gramotek",
   "profile_url": "https://backloggd.com/u/Gramotek/",
@@ -17,10 +17,10 @@
       "id": "lista-02",
       "title": "Epic Games Owned",
       "url": "https://backloggd.com/u/Gramotek/list/epic-games-owned/",
-      "count": 353,
+      "count": 354,
       "captured_at": "2026-10-19T18:48:54.784Z",
       "source_count": 351,
-      "manual_count": 2
+      "manual_count": 3
     },
     {
       "id": "lista-03",
@@ -10921,6 +10921,25 @@
       ]
     },
     {
+      "title": "Radiolight",
+      "url": "https://backloggd.com/games/radiolight/",
+      "lists": [
+        "lista-02"
+      ],
+      "sources": [
+        {
+          "list_id": "lista-02",
+          "title": "Epic Games Owned",
+          "url": "https://backloggd.com/u/Gramotek/list/epic-games-owned/",
+          "origin": "user_request",
+          "added_at": "2026-11-12",
+          "note": "Ręczne przypisanie w atlasie zgodnie ze zleceniem użytkownika."
+        }
+      ],
+      "year": 2025,
+      "manual_added_at": "2026-11-12"
+    },
+    {
       "title": "Rage 2",
       "url": "https://backloggd.com/games/rage-2/",
       "lists": [
@@ -16479,19 +16498,19 @@
     }
   ],
   "audit": {
-    "date": "2026-11-05",
+    "date": "2026-11-12",
     "lists": 12,
-    "occurrences": 1157,
-    "unique_games": 1034,
+    "occurrences": 1158,
+    "unique_games": 1035,
     "games_on_multiple_lists": 113,
     "duplicate_urls": 0,
     "all_source_counts_match": true,
     "source_date": "2026-10-19",
     "source_occurrences": 1154,
-    "manual_assignments": 3,
+    "manual_assignments": 4,
     "list_counts": {
       "Amazon Games owned": 39,
-      "Epic Games Owned": 353,
+      "Epic Games Owned": 354,
       "PlayStation Plus Essential": 136,
       "Steam owned": 186,
       "GoG owned": 219,

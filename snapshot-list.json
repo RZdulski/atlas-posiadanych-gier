@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updated_at": "2026-11-05",
+  "updated_at": "2026-11-12",
   "profile": "Gramotek",
   "lists": [
     {
@@ -5953,6 +5953,15 @@
       "added_at": "2026-11-05",
       "origin": "user_request",
       "note": "Ręczne przypisanie w atlasie zgodnie ze zleceniem użytkownika; nie oznacza zmiany listy w serwisie Backloggd."
+    },
+    {
+      "title": "Radiolight",
+      "year": 2025,
+      "url": "https://backloggd.com/games/radiolight/",
+      "list": "Epic Games Owned",
+      "added_at": "2026-11-12",
+      "origin": "user_request",
+      "note": "Ręczne przypisanie w atlasie zgodnie ze zleceniem użytkownika."
     }
   ]
 }
